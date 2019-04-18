@@ -99,15 +99,27 @@
     var directionsService = new google.maps.DirectionsService;
     var directionsDisplay = new google.maps.DirectionsRenderer;
     var map = new google.maps.Map(document.getElementById('map'), {
-      zoom: 8,
-      center: {lat: 39.242092, lng: -105.377079}
+      zoom: 7,
+      center: {lat: 39.230682, lng: -105.482248} //derived center// old center: {lat: 39.242092, lng: -105.377079}
     });
+    var outerLimitCoords = [
+      {lat: 40.997594, lng: -109.050001}, // north west
+      {lat: 36.999047, lng: -109.045222}, // south west
+      {lat: 36.992376, lng: -102.042194}, // south east
+      {lat: 40.998408, lng: -102.051328}  // north east
+    ];
     directionsDisplay.setMap(map);
     directionsDisplay.setPanel(document.getElementById('directions-panel'));
-
+    map.data.add({geometry: new google.maps.Data.Polygon([outerLimitCoords,])})
     document.getElementById('submit').addEventListener('click', function () {
       calculateAndDisplayRoute(directionsService, directionsDisplay);
     });
+    map.data.setStyle({
+      fillOpacity: 0.0,
+      strokeWeight: 3,
+      strokeColor: 'red'
+    });
+
   }
 
   function calculateAndDisplayRoute(directionsService, directionsDisplay) {
