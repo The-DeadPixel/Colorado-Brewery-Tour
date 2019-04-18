@@ -5,6 +5,7 @@
   <meta charset="utf-8">
   <title>Colorado Brewery Tour</title>
   <link href="css/map.css" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Roboto:400,700" rel="stylesheet">
 </head>
 <body>
 <div id="wrapper">
@@ -12,23 +13,23 @@
     <img src="images/Colorado%20Brewery%20TourBanner.png">
     <nav>
       <p>
-        <a href="">HOME</a> | <a href="">MAP</a> | <a href="">LIST</a> | <a href="">ABOUT</a> | <a href="">CONTACT</a>
+        <a href="">HOME</a> | <a href="">MAP</a> | <a href="">LIST</a> | <a href="">ABOUT</a> | <a
+          href="">CONTACT</a>
       </p>
     </nav>
   </header>
-  <div id="floating-panel">
-    <b>Mode of Travel: </b>
-    <select id="mode">
-      <option value="DRIVING">Driving</option>
-      <option value="WALKING">Walking</option>
-      <option value="BICYCLING">Bicycling</option>
-      <option value="TRANSIT">Transit</option>
-    </select>
-  </div>
   <content>
     <div id="map"></div>
     <div id="right-panel">
-      <div>
+      <div id="floating-panel">
+        <b>Mode of Travel: </b>
+        <select id="mode">
+          <option value="DRIVING">Driving</option>
+          <option value="WALKING">Walking</option>
+          <option value="BICYCLING">Bicycling</option>
+          <option value="TRANSIT">Transit</option>
+        </select>
+      </div>
         <b>Start:</b>
         <select id="start">
           <!-- add actual options, and addresses, support button to add to itinerary -->
@@ -88,9 +89,8 @@
         </select>
         <br>
         <input type="submit" id="submit">
-      </div>
       <div id="directions-panel"></div>
-    </div>
+      </div>
   </content>
   <footer></footer>
 </div>
@@ -117,9 +117,8 @@
     map.data.setStyle({
       fillOpacity: 0.0,
       strokeWeight: 3,
-      strokeColor: 'red'
+      strokeColor: 'green'
     });
-
   }
 
   function calculateAndDisplayRoute(directionsService, directionsDisplay) {
