@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+  <meta charset="utf-8">
+  <title>Colorado Brewery Tour</title>
+  <link href="css/map.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div id="wrapper">
+  <header>
+    <img src="images/Colorado%20Brewery%20TourBanner.png">
+    <nav>
+      <p>
+        <a href="">HOME</a> | <a href="">MAP</a> | <a href="">LIST</a> | <a href="">ABOUT</a> | <a href="">CONTACT</a>
+      </p>
+    </nav>
+  </header>
+  <div id="floating-panel">
+    <b>Mode of Travel: </b>
+    <select id="mode">
+      <option value="DRIVING">Driving</option>
+      <option value="WALKING">Walking</option>
+      <option value="BICYCLING">Bicycling</option>
+      <option value="TRANSIT">Transit</option>
+    </select>
+  </div>
+  <content>
+    <div id="map"></div>
+    <div id="right-panel">
+      <div>
+        <b>Start:</b>
+        <select id="start">
+          <!-- add actual options, and addresses, support button to add to itinerary -->
+          <option value="7140 E. County Line Road. Highlands Ranch, 80126">3 Freaks Brewery</option>
+          <option value="335 1st Ave., Unit C Longmont, Colorado">300 Suns</option>
+          <option value="300 12th St, Golden, CO 80401">Adolph Coors Company</option>
+          <option value="4699 Nautilus Court, Suite 104 Boulder, Colorado 80301">Asher Brewing
+            Company
+          </option>
+          <option value="4910 Nautilus Ct, Boulder, CO 80301">Avery Brewing Company</option>
+          <option value="142 Pratt St., Longmont, CO 80501">Bootstrap Brewing Company</option>
+          <option value="2880 Wilderness Pl, Boulder, CO 80301">Boulder Beer Company</option>
+          <option value="600 S Main St, Breckenridge, CO 80424">Breckenridge Brewery
+            (Breckenridge)
+          </option>
+          <option value="2920 Brewery Ln, Littleton, CO 80120">Breckenridge Brewery (Littleton)
+          </option>
+        </select>
+        <br>
+        <b>Waypoints:</b> <br>
+        <i>(Ctrl+Click or Cmd+Click for multiple selection)</i> <br>
+        <select multiple id="waypoints">
+          <!-- add actual options, and addresses, support button to add to itinerary -->
+          <option value="7140 E. County Line Road. Highlands Ranch, 80126">3 Freaks Brewery</option>
+          <option value="335 1st Ave., Unit C Longmont, Colorado">300 Suns</option>
+          <option value="300 12th St, Golden, CO 80401">Adolph Coors Company</option>
+          <option value="4699 Nautilus Court, Suite 104 Boulder, Colorado 80301">Asher Brewing
+            Company
+          </option>
+          <option value="4910 Nautilus Ct, Boulder, CO 80301">Avery Brewing Company</option>
+          <option value="142 Pratt St., Longmont, CO 80501">Bootstrap Brewing Company</option>
+          <option value="2880 Wilderness Pl, Boulder, CO 80301">Boulder Beer Company</option>
+          <option value="600 S Main St, Breckenridge, CO 80424">Breckenridge Brewery
+            (Breckenridge)
+          </option>
+          <option value="2920 Brewery Ln, Littleton, CO 80120">Breckenridge Brewery (Littleton)
+          </option>
+        </select>
+        <br>
+        <b>End:</b>
+        <select id="end">
+          <!-- add actual options, and addresses, support button to add to itinerary -->
+          <option value="4699 Nautilus Court, Suite 104 Boulder, Colorado 80301">Asher Brewing
+            Company
+          </option>
+          <option value="7140 E. County Line Road. Highlands Ranch, 80126">3 Freaks Brewery</option>
+          <option value="335 1st Ave., Unit C Longmont, Colorado">300 Suns</option>
+          <option value="300 12th St, Golden, CO 80401">Adolph Coors Company</option>
+          <option value="4910 Nautilus Ct, Boulder, CO 80301">Avery Brewing Company</option>
+          <option value="142 Pratt St., Longmont, CO 80501">Bootstrap Brewing Company</option>
+          <option value="2880 Wilderness Pl, Boulder, CO 80301">Boulder Beer Company</option>
+          <option value="600 S Main St, Breckenridge, CO 80424">Breckenridge Brewery
+            (Breckenridge)
+          </option>
+          <option value="2920 Brewery Ln, Littleton, CO 80120">Breckenridge Brewery (Littleton)
+          </option>
+        </select>
+        <br>
+        <input type="submit" id="submit">
+      </div>
+      <div id="directions-panel"></div>
+    </div>
+  </content>
+  <footer></footer>
+</div>
+<script>
+  function initMap() {
+    var directionsService = new google.maps.DirectionsService;
+    var directionsDisplay = new google.maps.DirectionsRenderer;
+    var map = new google.maps.Map(document.getElementById('map'), {
+      zoom: 8,
+      center: {lat: 39.242092, lng: -105.377079}
+    });
+    directionsDisplay.setMap(map);
+    directionsDisplay.setPanel(document.getElementById('directions-panel'));
+
+    document.getElementById('submit').addEventListener('click', function () {
+      calculateAndDisplayRoute(directionsService, directionsDisplay);
+    });
+  }
+
+  function calculateAndDisplayRoute(directionsService, directionsDisplay) {
+    var selectedMode = document.getElementById('mode').value;
+    var waypts = [];
+    var checkboxArray = document.getElementById('waypoints');
+    for (var i = 0; i < checkboxArray.length; i++) {
+      if (checkboxArray.options[i].selected) {
+        waypts.push({
+          location: checkboxArray[i].value,
+          stopover: true
+        });
+      }
+    }
+
+    directionsService.route({
+      origin: document.getElementById('start').value,
+      destination: document.getElementById('end').value,
+      waypoints: waypts,
+      optimizeWaypoints: true,
+      travelMode: google.maps.TravelMode[selectedMode]
+    }, function (response, status) {
+      if (status === 'OK') {
+        directionsDisplay.setDirections(response);
+      } else {
+        window.alert('Directions request failed due to ' + status);
+      }
+    });
+  }
+</script>
+<script async defer
+        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCsEW5qNref3C64fVO8HRofEBz90gWj2zA&callback=initMap">
+</script>
+</body>
+</html>

@@ -1,0 +1,119 @@
+/* colors to use:
+ * bright orange: #f28427
+ * bright biege: #f3efe9
+ * dark orange: #bf5f0e
+ * dark/text color: 373133
+ */
+
+#wrapper {
+  font-family: 'Open Sans', sans-serif;
+  max-width: 1200px;
+  padding: 10px;
+  border: 2px solid #373133;
+  background-color: #bf5f0e;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header{
+
+}
+
+header img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+nav {
+  width: 100%;
+  padding-top: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+nav a {
+  color: #373133;
+  font-size: 18px;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+body {
+  background: url("../images/bubbles_bg_large_gradient.png") repeat-x bottom;
+  background-color: #f3efe9;
+}
+
+content {
+  display: flex;
+}
+
+#map {
+  height: 700px;
+  width: 70%;
+}
+
+#floating-panel {
+  /* position: absolute; */
+  /* top: 41%; */
+  /* left: 28%; */
+  /* z-index: 5; */
+  align-items: flex-start;
+  color: #373133;
+  background-color: #bf5f0e;
+  padding: 5px;
+  max-width: 200px;
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 30px;
+  padding-left: 10px;
+}
+
+#floating-panel select {
+  color: #373133;
+  background-color: #f3efe9;
+}
+
+#right-panel {
+  font-family: 'Open Sans', sans-serif;
+  color: #373133;
+  display: block;
+  line-height: 30px;
+  padding-left: 10px;
+  width: 30%;
+  height: 100%;
+  float: left;
+}
+
+#right-panel select, #right-panel input {
+  font-family: 'Open Sans', sans-serif;
+  color: #373133;
+  background-color: #f3efe9;
+  font-size: 15px;
+}
+
+#right-panel select {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #f3efe9;
+  width: 100%;
+}
+
+#right-panel i {
+  font-size: 12px;
+}
+
+#directions-panel {
+  margin-top: 5px;
+  font-family: 'Open Sans', sans-serif;
+  color: #373133;
+  background-color: #bf5f0e;
+  overflow: auto;
+  height: 400px;
+  width: 100%;
+}
+
+.adp, .adp table {
+  background-color: #f3efe9;
+}
