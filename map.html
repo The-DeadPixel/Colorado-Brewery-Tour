@@ -13,12 +13,12 @@
     <img src="images/Colorado%20Brewery%20TourBanner.png">
     <nav>
       <p>
-        <a href="">HOME</a> | <a href="">MAP</a> | <a href="">LIST</a> | <a href="">ABOUT</a> | <a
+        <a href="">HOME</a> | <a href="map.html">MAP</a> | <a href="">LIST</a> | <a href="">ABOUT</a> | <a
           href="">CONTACT</a>
       </p>
     </nav>
   </header>
-  <content>
+  <div id="content">
     <div id="map"></div>
     <div id="right-panel">
       <div id="floating-panel">
@@ -91,7 +91,7 @@
         <input type="submit" id="submit">
       <div id="directions-panel"></div>
       </div>
-  </content>
+  </div>
   <footer></footer>
 </div>
 <script>
@@ -149,8 +149,10 @@
     });
   }
 </script>
-<script async defer
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCsEW5qNref3C64fVO8HRofEBz90gWj2zA&callback=initMap">
+<!--<script async defer-->
+        <!--src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCsEW5qNref3C64fVO8HRofEBz90gWj2zA&callback=initMap">-->
+<!--</script>-->
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCsEW5qNref3C64fVO8HRofEBz90gWj2zA&libraries=places&callback=initMap" async defer>
 </script>
 </body>
 </html>

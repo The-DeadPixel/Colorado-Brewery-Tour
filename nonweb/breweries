@@ -1,0 +1,59 @@
+<b>Start:</b>
+        <select id="start">
+          <!-- add actual options, and addresses, support button to add to itinerary -->
+          <option value="7140 E. County Line Road. Highlands Ranch, 80126">3 Freaks Brewery</option>
+          <option value="335 1st Ave., Unit C Longmont, Colorado">300 Suns</option>
+          <option value="300 12th St, Golden, CO 80401">Adolph Coors Company</option>
+          <option value="4699 Nautilus Court, Suite 104 Boulder, Colorado 80301">Asher Brewing
+            Company
+          </option>
+          <option value="4910 Nautilus Ct, Boulder, CO 80301">Avery Brewing Company</option>
+          <option value="142 Pratt St., Longmont, CO 80501">Bootstrap Brewing Company</option>
+          <option value="2880 Wilderness Pl, Boulder, CO 80301">Boulder Beer Company</option>
+          <option value="600 S Main St, Breckenridge, CO 80424">Breckenridge Brewery
+            (Breckenridge)
+          </option>
+          <option value="2920 Brewery Ln, Littleton, CO 80120">Breckenridge Brewery (Littleton)
+          </option>
+        </select>
+        <br>
+        <b>Waypoints:</b> <br>
+        <i>(Ctrl+Click or Cmd+Click for multiple selection)</i> <br>
+        <select multiple id="waypoints">
+          <!-- add actual options, and addresses, support button to add to itinerary -->
+          <option value="7140 E. County Line Road. Highlands Ranch, 80126">3 Freaks Brewery</option>
+          <option value="335 1st Ave., Unit C Longmont, Colorado">300 Suns</option>
+          <option value="300 12th St, Golden, CO 80401">Adolph Coors Company</option>
+          <option value="4699 Nautilus Court, Suite 104 Boulder, Colorado 80301">Asher Brewing
+            Company
+          </option>
+          <option value="4910 Nautilus Ct, Boulder, CO 80301">Avery Brewing Company</option>
+          <option value="142 Pratt St., Longmont, CO 80501">Bootstrap Brewing Company</option>
+          <option value="2880 Wilderness Pl, Boulder, CO 80301">Boulder Beer Company</option>
+          <option value="600 S Main St, Breckenridge, CO 80424">Breckenridge Brewery
+            (Breckenridge)
+          </option>
+          <option value="2920 Brewery Ln, Littleton, CO 80120">Breckenridge Brewery (Littleton)
+          </option>
+        </select>
+        <br>
+        <b>End:</b>
+        <select id="end">
+          <!-- add actual options, and addresses, support button to add to itinerary -->
+          <option value="4699 Nautilus Court, Suite 104 Boulder, Colorado 80301">Asher Brewing
+            Company
+          </option>
+          <option value="7140 E. County Line Road. Highlands Ranch, 80126">3 Freaks Brewery</option>
+          <option value="335 1st Ave., Unit C Longmont, Colorado">300 Suns</option>
+          <option value="300 12th St, Golden, CO 80401">Adolph Coors Company</option>
+          <option value="4910 Nautilus Ct, Boulder, CO 80301">Avery Brewing Company</option>
+          <option value="142 Pratt St., Longmont, CO 80501">Bootstrap Brewing Company</option>
+          <option value="2880 Wilderness Pl, Boulder, CO 80301">Boulder Beer Company</option>
+          <option value="600 S Main St, Breckenridge, CO 80424">Breckenridge Brewery
+            (Breckenridge)
+          </option>
+          <option value="2920 Brewery Ln, Littleton, CO 80120">Breckenridge Brewery (Littleton)
+          </option>
+        </select>
+        <br>
+        <input type="submit" id="submit">

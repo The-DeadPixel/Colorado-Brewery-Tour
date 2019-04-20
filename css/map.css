@@ -1,126 +1,133 @@
 /* colors to use:
  * bright orange: #B5580D
- * bright biege: #f3efe9
+ * bright beige: #f3efe9
  * gold: #eab36c
  * dark orange: #bf5f0e
  * dark/text color: #373133
  */
 
-#wrapper {
-  font-family: 'Roboto', sans-serif;
-  max-width: 1200px;
-  background-color: #bf5f0e;
-  margin-left: auto;
-  margin-right: auto;
+body, html {
+    height: 100%;
+    width: 100%;
 }
 
-header{
-  background-color: #eab36c;
-  border: 2px solid #373133;
-  border-bottom: 0px;
+#wrapper {
+    font-family: 'Roboto', sans-serif;
+    height: 100%;
+    width: 100%;
+    max-width: 1200px;
+    max-height: 1080px;
+    background-color: #bf5f0e;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    background-color: #eab36c;
+    border: 2px solid #373133;
+    border-bottom: 0;
 }
 
 header img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 70%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
 }
 
 nav {
-  width: 100%;
-  padding-top: 10px;
-  display: flex;
-  justify-content: center;
-  align-items: flex-end;
+    width: 100%;
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
 }
 
 nav a {
-  color: #373133;
-  font-size: 18px;
-  font-weight: bold;
-  text-decoration: none;
+    color: #373133;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
 }
 
 body {
-  background: #f3efe9 url("../images/bubbles_bg_large_gradient.png") repeat-x bottom;
+    background: #f3efe9 url("../images/bubbles_bg_large_gradient.png") repeat-x bottom;
 }
 
-content {
-  border: 2px solid #373133;
-  padding: 10px;
-  display: flex;
+#content {
+    border: 2px solid #373133;
+    height: 100%;
+    max-height: 630px;
+    padding: 10px;
+    display: flex;
 }
 
 
 #map {
-  height: 700px;
-  width: 70%;
+    height: 100%; /*height: 700px;*/
+    width: 70%;
+    max-height: 630px;
 }
 
 #right-panel {
-  font-family: 'Roboto', sans-serif;
-  color: #f3efe9;
-  display: block;
-  line-height: 30px;
-  padding-left: 10px;
-  font-size: 18px;
-  width: 30%;
-  height: 100%;
-  float: left;
+    font-family: 'Roboto', sans-serif;
+    color: #f3efe9;
+    width: 30%;
+    height: 100%;
+    max-height: 630px;
+    display: block;
+    line-height: 30px;
+    padding-left: 10px;
+    font-size: 18px;
+    float: left;
 }
 
 #floating-panel {
-  /* someday change this to float correctly over the map */
-  /* position: absolute; */
-  /* top: 41%; */
-  /* left: 28%; */
-  /* z-index: 5; */
-  font-family: 'Roboto', sans-serif;
-  color: #f3efe9;
-  background-color: #bf5f0e;
-  line-height: 30px;
-  font-size: 18px;
+    /* someday change this to float correctly over the map */
+    /* position: absolute; */
+    /* top: 41%; */
+    /* left: 28%; */
+    /* z-index: 5; */
+    font-family: 'Roboto', sans-serif;
+    color: #f3efe9;
+    background-color: #bf5f0e;
+    line-height: 30px;
+    font-size: 18px;
 }
 
 #floating-panel select {
-  color: #373133;
-  background-color: #f3efe9;
+    color: #373133;
+    background-color: #f3efe9;
 }
 
 #right-panel select, #right-panel input {
-  font-family: 'Roboto', sans-serif;
-  color: #373133;
-  background-color: #f3efe9;
-  font-weight: bold;
-  font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    color: #373133;
+    background-color: #f3efe9;
+    font-weight: bold;
+    font-size: 18px;
 }
 
 #right-panel select {
-  font-family: 'Roboto', sans-serif;
-  background-color: #f3efe9;
-  width: 100%;
+    font-family: 'Roboto', sans-serif;
+    background-color: #f3efe9;
+    width: 100%;
 }
 
 #right-panel i {
-  font-size: 12px;
+    font-size: 12px;
 }
 
 #right-panel option {
-  font-weight: bold;
-  font-size: 18px;
+    font-weight: bold;
+    font-size: 18px;
 }
 
 #directions-panel {
-  display: block;
-  margin-top: 5px;
-  font-family: 'Roboto', sans-serif;
-  color: #373133;
-  background-color: #bf5f0e;
-  overflow: auto;
-  height: 327px;
-}
-
-.adp, .adp table {
-  background-color: #f3efe9;
+    display: block;
+    margin-top: 5px;
+    font-family: 'Roboto', sans-serif;
+    color: #373133;
+    background-color: #bf5f0e;
+    overflow: auto;
 }
