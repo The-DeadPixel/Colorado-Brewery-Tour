@@ -1,0 +1,2636 @@
+{
+  "breweries": [
+    {
+      "formatted_address": "7140 E County Line Rd, Highlands Ranch, CO 80126, USA",
+      "name": "3 Freaks Brewery",
+      "place_id": "ChIJxUwTTkeEbIcRrwrTor00tHo",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1480 Cascade Ave, Loveland, CO 80538, USA",
+      "name": "5030 Local",
+      "place_id": "ChIJO8w093JRaYcR405ZIEubcc4",
+      "rating": 4.4,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1539 S Broadway, Denver, CO 80210, USA",
+      "name": "Alternation Brewing Company",
+      "place_id": "ChIJbTcWcq1_bIcRM4U8JeX5wok",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "820 Main St, Louisville, CO 80027, USA",
+      "name": "12Degree Brewing",
+      "place_id": "ChIJV5-01V3za4cRHErorPGilxs",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "6381 Beach St Unit A, Denver, CO 80221, USA",
+      "name": "Amalgam Brewing",
+      "place_id": "ChIJIc68nw95bIcRUpNEjjpNXL8",
+      "rating": 3,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "335 1st Ave, Longmont, CO 80501, USA",
+      "name": "300 Suns Brewing",
+      "place_id": "ChIJzTJtH6L5a4cRxe_WXDORfxc",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1043 Park St, Castle Rock, CO 80109, USA",
+      "name": "105 West Brewing Company",
+      "place_id": "ChIJv0u4nTeYbIcR5Z6ZNboBVS0",
+      "rating": 4.9,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "8855 W 116th Cir #4, Broomfield, CO 80021, USA",
+      "name": "4 Noses Brewing Company",
+      "place_id": "ChIJ__RsGr-La4cRxZjhPokFgdA",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "3120 Blake St Unit C, Denver, CO 80205, USA",
+      "name": "14er Brewing & Beer Garden",
+      "place_id": "ChIJkRwTBRx5bIcRd73MJLxiZZk",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "8071 S Broadway Suite A, Littleton, CO 80122, USA",
+      "name": "38 State Brewing Company",
+      "place_id": "ChIJn8bjfSyCbIcR2LogONWiN_4",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "4699 Nautilus Ct S #104, Boulder, CO 80301, USA",
+      "name": "Asher Brewing Company",
+      "place_id": "ChIJHbuycsXxa4cRP-4h5pr42lY",
+      "rating": 4.4,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "421 Adams Ave, Silverthorne, CO 80498, USA",
+      "name": "Angry James Brewery",
+      "place_id": "ChIJF7BQfohcaocRnQOy8HJoboU",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "450 8th St, Berthoud, CO 80513, USA",
+      "name": "Berthoud Brewing Company",
+      "place_id": "ChIJd4qdKplVaYcRB-vkCdu2y5w",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "320 Broadway Unit E, Denver, CO 80203, USA",
+      "name": "Baere Brewing Company",
+      "place_id": "ChIJ85q57CB_bIcRBu10hSSJlvo",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1020 Capitol St, Eagle, CO 81631, USA",
+      "name": "7 Hermits Brewing Company",
+      "place_id": "ChIJ-0i00LLGQYcRIhkD4OMNrdk",
+      "rating": 4.2,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "#160, 600 12th St, Golden, CO 80401, United States",
+      "name": "Barrels & Bottles Brewery",
+      "place_id": "ChIJ9aRlSi2Fa4cRcfriOe8jjBE",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1505 N Ogden St, Denver, CO 80218, USA",
+      "name": "Alpine Dog Brewing Company",
+      "place_id": "ChIJX8Z4Ti15bIcRQ35_NnzlkEA",
+      "rating": 4.3,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1001 Lee Hill Dr Unit 10, Boulder, CO 80302, USA",
+      "name": "Adamant Brewing and Blending",
+      "place_id": "ChIJ17WnsGLva4cRV5O9mJxM0vg",
+      "rating": 5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1560 E 2nd Ave, Durango, CO 81301, USA",
+      "name": "Animas Brewing Company",
+      "place_id": "ChIJiQmSeh6oPocRTJ3QXXLD3Ow",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "121 S Galena St #A, Aspen, CO 81611, USA",
+      "name": "Aspen Brewing Company",
+      "place_id": "ChIJL-h1In05QIcRF9INu04mpFU",
+      "rating": 4.1,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "21 S 1st Ave, Brighton, CO 80601, USA",
+      "name": "Big Choice Brewing and Pizzeria",
+      "place_id": "ChIJZeLbJ0uKa4cRdq5lZDB9QfY",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "3404, 470 Broadway, Denver, CO 80203, United States",
+      "name": "Banded Oak Brewing Company",
+      "place_id": "ChIJh5MaOCd_bIcRmI-czUsKz9o",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "114 E 15th St, Loveland, CO 80538, USA",
+      "name": "Big Thompson Brewery",
+      "place_id": "ChIJ-Uz6J_5SaYcRuv5ZJni4D0E",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "6200 S Main St Suite 110, Aurora, CO 80016, USA",
+      "name": "Bent Barley Brewing Company",
+      "place_id": "ChIJV5372sKNbIcRhLn87nDk-qQ",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "18425 Pony Express Dr, Parker, CO 80134, USA",
+      "name": "Barnett & Son Brewing Co.",
+      "place_id": "ChIJg6S5DOCRbIcRv13-hNgwk9Y",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1611 S College Ave, Fort Collins, CO 80525, USA",
+      "name": "Black Bottle Brewery",
+      "place_id": "ChIJs563JQBLaYcRf8IJP-I6HmQ",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1067 Blair St, Silverton, CO 81433, USA",
+      "name": "Avalanche Brewing Company",
+      "place_id": "ChIJ903j7f7nPocRvppYQ2ysP6E",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "6035 Longbow Dr unit 109, Boulder, CO 80301, USA",
+      "name": "Beyond the Mountain Brewing Co.",
+      "place_id": "ChIJhbgkHtTxa4cRRZlZf5u60b8",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "204 Mt View Ln #3, Colorado Springs, CO 80907, USA",
+      "name": "Atrevida Beer Company",
+      "place_id": "ChIJG0dZ8b5PE4cRdFRrfmESXNU",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "4910 Nautilus Ct N, Boulder, CO 80301, USA",
+      "name": "Avery Brewing Company",
+      "place_id": "ChIJoe7MMgjya4cRRiQzBFTNDLk",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1290 S Broadway A51, Denver, CO 80210, USA",
+      "name": "Black Project Spontaneous & Wild Ales",
+      "place_id": "ChIJEzIcZqt_bIcRcFdcuqR84tI",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "3535 S Platte River Dr Unit L, Sheridan, CO 80110, USA",
+      "name": "Boggy Draw Brewery",
+      "place_id": "ChIJt2nr7QqAbIcRKFRk95f7cBk",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2707 W Eisenhower Blvd #9, Loveland, CO 80537, USA",
+      "name": "Big Beaver Brewing Co",
+      "place_id": "ChIJX4rFBi5SaYcRc1yUKe5sMq0",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1609 E 58th Ave unit g, Denver, CO 80216, USA",
+      "name": "Blue Tile Brewing",
+      "place_id": "ChIJKYGCF-B4bIcRYYbZ5H7_b1M",
+      "rating": 3.9,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "121 E Midland Ave, Woodland Park, CO 80863, USA",
+      "name": "BierWerks",
+      "place_id": "ChIJN8iMm7aqFIcRviPf5EgDNQ4",
+      "rating": 4.3,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "6778 N 79th St, Niwot, CO 80503, USA",
+      "name": "Bootstrap Brewing Company",
+      "place_id": "ChIJJSIcGIvwa4cRYOtZ2v6LjM0",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "142 Pratt St, Longmont, CO 80501, USA",
+      "name": "Bootstrap Brewing",
+      "place_id": "ChIJE8Ko9J75a4cRBXnn7ESUbYQ",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "118 E Mill St, Bayfield, CO 81122, USA",
+      "name": "Bottom Shelf Brewery",
+      "place_id": "ChIJs9JIisIjPIcRrG3q18RiX1E",
+      "rating": 4.4,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "3719 Walnut St, Denver, CO 80205, USA",
+      "name": "Black Shirt Brewing Co",
+      "place_id": "ChIJYWO6GxB5bIcR0C3amGQv8ZI",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2875 Blake St, Denver, CO 80205, USA",
+      "name": "Bierstadt Lagerhaus",
+      "place_id": "ChIJAchlax55bIcRwYpXUARI_Rk",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "11590 Black Forest Rd #50, Colorado Springs, CO 80908, USA",
+      "name": "Black Forest Brewing Company",
+      "place_id": "ChIJ___PElRKE4cRNvX_e0S24C0",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "12445 E 39th Ave #314, Denver, CO 80239, USA",
+      "name": "Brewability Lab",
+      "place_id": "ChIJYVJ6jbRkbIcRtFN_cfZ6aPo",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "3750 Chestnut Pl, Denver, CO 80216, USA",
+      "name": "Blue Moon Brewing Company",
+      "place_id": "ChIJ_TFaNQR5bIcR2gm8aERUra0",
+      "rating": 4.4,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "490 Santa Fe Dr, Denver, CO 80204, USA",
+      "name": "Black Sky Brewery",
+      "place_id": "ChIJRdLgJjt_bIcR_laCL5XuKVM",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2298 Clay St, Denver, CO 80211, USA",
+      "name": "Briar Common Brewery + Eatery",
+      "place_id": "ChIJP5Do07x4bIcRrBUCu1Ve8EE",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "127 W 2nd St, Eagle, CO 81631, USA",
+      "name": "Bonfire Brewing",
+      "place_id": "ChIJJVBARFvBQYcR9y4L6otIz0c",
+      "rating": 4.9,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "4151 E County Line Rd G, Centennial, CO 80122, USA",
+      "name": "Blue Spruce Brewing Company",
+      "place_id": "ChIJF_Ec7vWDbIcR3Sbaiv5n86Y",
+      "rating": 4.4,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "10577 W Centennial Rd, Littleton, CO 80127, USA",
+      "name": "Blue Spruce Brewing Company-Littleton",
+      "place_id": "ChIJx1zqRa5-a4cRhzYSfbDCrEk",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1604 S Cascade Ave, Colorado Springs, CO 80905, USA",
+      "name": "Bristol Brewing Company",
+      "place_id": "ChIJwy4Q3MNEE4cREjDA0ikYYsQ",
+      "rating": 4.4,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "4335 Wadsworth Blvd, Wheat Ridge, CO 80033, USA",
+      "name": "Brewery Rickoli",
+      "place_id": "ChIJrSOzhlKGa4cRb5NHB_LYUxg",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "10577 W Centennial Rd, Littleton, CO 80127, USA",
+      "name": "Blue Spruce Brewing Company-Littleton",
+      "place_id": "ChIJx1zqRa5-a4cRhzYSfbDCrEk",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "900 S. Hover, Unit C, Longmont, CO 80501, United States",
+      "name": "Brewmented",
+      "place_id": "ChIJ45Y5mCj6a4cRoWl8LpfxQLg",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2505 West 2nd Avenue #Unit 13, Denver, CO 80219, United States",
+      "name": "Burns Family Artisan Ales",
+      "place_id": "ChIJbdAoKHV_bIcRWJHMth0xTes",
+      "rating": 5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1675 W 67th Ave #100, Denver, CO 80221, USA",
+      "name": "Bruz Beers",
+      "place_id": "ChIJi01E6Ip3bIcRG6UiiVbl_KE",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "5290 Arapahoe Ave, Boulder, CO 80303, USA",
+      "name": "BRU handbuilt ales & eats",
+      "place_id": "ChIJR5HxvvHta4cREteRzJauKsE",
+      "rating": 4.3,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2875 Elk River Rd, Steamboat Springs, CO 80487, USA",
+      "name": "Butcherknife Brewing Company",
+      "place_id": "ChIJdfse0INoQocRrIAM1HtGQv4",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "4229 W Eisenhower Blvd, Loveland, CO 80537, USA",
+      "name": "Buckhorn Brewers llc",
+      "place_id": "ChIJpwfoxZpRaYcRf70w01tJVrs",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2880 Wilderness Pl, Boulder, CO 80301, USA",
+      "name": "Boulder Beer Company",
+      "place_id": "ChIJi3Yuw3Xua4cRlhWnWu2hujE",
+      "rating": 4.3,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "4731 W 10th St, Greeley, CO 80634, USA",
+      "name": "Broken Plow Brewery",
+      "place_id": "ChIJcyMm0AikbocRMGN6lUBt3hk",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "318 E Colorado Ave, Colorado Springs, CO 80903, USA",
+      "name": "Brass Brewing Company",
+      "place_id": "ChIJAQDAHBlFE4cRqwLugJqfoR8",
+      "rating": 4.9,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "600 S Main St, Breckenridge, CO 80424, USA",
+      "name": "Breckenridge Brewery & Pub",
+      "place_id": "ChIJZd-WAGH2aocRnXNG7XpBykY",
+      "rating": 4.4,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1635 Platte St, Denver, CO 80202, USA",
+      "name": "Cerveceria Colorado",
+      "place_id": "ChIJC5wBR1p5bIcR-avQoruwkxY",
+      "rating": 4.9,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "902 S Lipan St, Denver, CO 80223, USA",
+      "name": "Chain Reaction Brewing Company",
+      "place_id": "ChIJdUzA7nd-a4cRPeVhiV-2Tfw",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "120 Riverwalk Place, Pueblo, CO 81003, USA",
+      "name": "Brues Alehouse Brewing Co.",
+      "place_id": "ChIJ-1IwIh2jE4cRv7pdWYfVuN0",
+      "rating": 4.3,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2501 Dallas St #148, Aurora, CO 80010, USA",
+      "name": "Cheluna Brewing Company",
+      "place_id": "ChIJG7TLgmJ7bIcRSvhLBk3Lwnc",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "68 Continental Ct Unit B-12, Breckenridge, CO 80424, USA",
+      "name": "Broken Compass Brewing",
+      "place_id": "ChIJC-d4cqhYaocRjlmWok3Bk2E",
+      "rating": 4.9,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "9719 W Coal Mine Ave Unit A, Littleton, CO 80123, USA",
+      "name": "Coal Mine Ave Brewing Company",
+      "place_id": "ChIJiwCxnd5-a4cRbIJwDF7ysG4",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "15965 S Golden Rd c2, Golden, CO 80401, USA",
+      "name": "CODA Brewing Co.",
+      "place_id": "ChIJaWp4ffOEa4cRQlBJMVWbZcg",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "680 Atchison Way Suite 800, Castle Rock, CO 80109, USA",
+      "name": "BURLY Brewing Company",
+      "place_id": "ChIJlR7CHkeYbIcR4LbXF6qLs8o",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1133 Broadway, Denver, CO 80203, USA",
+      "name": "CO Brew",
+      "place_id": "ChIJCTBgRip_bIcRFl-fxyOlcr0",
+      "rating": 4.9,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "4700 Cherry Creek S Dr, Denver, CO 80246, USA",
+      "name": "Bull & Bush Brewery",
+      "place_id": "ChIJy0fuetN9bIcRfTivsjBIIPw",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "778 West Baseline Road, Lafayette, CO 80026, USA",
+      "name": "Cellar West Artisan Ales",
+      "place_id": "ChIJ0X0EdB7va4cR1t8NzNLXgaE",
+      "rating": 4.9,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "7667 E Iliff Ave, Denver, CO 80231, USA",
+      "name": "Comrade Brewing Company",
+      "place_id": "ChIJnVnWEYR9bIcRioFnEUpyw4M",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "600 S 21st St #180, Colorado Springs, CO 80904, USA",
+      "name": "Colorado Mountain Brewery at the Roundhouse",
+      "place_id": "ChIJoZ12msdaE4cRQiao0Tsqboc",
+      "rating": 4.4,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "3559 Larimer St, Denver, CO 80205, USA",
+      "name": "Colorado Sake Co.",
+      "place_id": "ChIJRfnrfhB5bIcRJKcqpp2pCZQ",
+      "rating": 5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "702 W Colorado Ave, Colorado Springs, CO 80905, USA",
+      "name": "Cerberus Brewing Company",
+      "place_id": "ChIJxcdfLy5FE4cRxvDgZ59-MJE",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1477 Monroe St, Denver, CO 80206, USA",
+      "name": "Cerebral Brewing",
+      "place_id": "ChIJBSeHC6x-bIcRyGC8NIyfXeo",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "3858 Village 7 Rd, Colorado Springs, CO 80917, USA",
+      "name": "Cogstone Brewing Company, LLC",
+      "place_id": "ChIJhZ2gd1RPE4cRH3y9ACPORmQ",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "321 Mountain Ave, Berthoud, CO 80513, USA",
+      "name": "City Star Brewing",
+      "place_id": "ChIJc5_8gHVVaYcRqIt-1yMXEts",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "602 Clinton St, Ridgway, CO 81432, USA",
+      "name": "Colorado Boy Pub & Brewery",
+      "place_id": "ChIJh438WIM8P4cR8gKSteuAVhI",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "6995 W 38th Ave, Wheat Ridge, CO 80033, USA",
+      "name": "Colorado Plus Brew Pub and Taphouse",
+      "place_id": "ChIJu-cAy6uHa4cRa0dFGugQq_I",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2030 S Cherokee St, Denver, CO 80223, USA",
+      "name": "Declaration Brewing Company",
+      "place_id": "ChIJ96Kg1LV_bIcR4ineWPk2o6A",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "4342 Tennyson St, Denver, CO 80212, USA",
+      "name": "De Steeg Brewing - Entrance in \"The Alley\"",
+      "place_id": "ChIJcxvcqYSHa4cRrXeOrBXD_oE",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "320 E Main St, Montrose, CO 81401, USA",
+      "name": "Colorado Boy",
+      "place_id": "ChIJ7d617o1QP4cR-P2nKyEPTyY",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "6730 S Cornerstar Way D, Aurora, CO 80016, USA",
+      "name": "Dad & Dudes Breweria",
+      "place_id": "ChIJtc9m6i6PbIcRXS5AAcSPTTw",
+      "rating": 4.4,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "3701 S Santa Fe Dr #7, Sheridan, CO 80110, USA",
+      "name": "Dead Hippie Brewing",
+      "place_id": "ChIJ59SU6HOAbIcRatwx_WO-SEo",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "5768 Olde Wadsworth Blvd, Arvada, CO 80002, USA",
+      "name": "Denver Beer Co. Olde Town Arvada",
+      "place_id": "ChIJAczUYyuGa4cR_Nla4L5V1YQ",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "3581 E Harmony Rd #110, Fort Collins, CO 80528, USA",
+      "name": "DC Oakes Brewhouse And Eatery",
+      "place_id": "ChIJSbhfTEKzbocR2csIyacN2T4",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1735 19th Street Suite 100, Suite 100, Denver, CO 80202, United States",
+      "name": "ChopHouse & Brewery Denver",
+      "place_id": "ChIJ_Xn8zMJ4bIcRDE9w8dnwix8",
+      "rating": 4.3,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1110 Interquest Pkwy, Colorado Springs, CO 80921, USA",
+      "name": "Colorado Mountain Brewery",
+      "place_id": "ChIJGf67bwhNE4cRceCyXKeVzio",
+      "rating": 4.2,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "965 E 11th St, Loveland, CO 80537, USA",
+      "name": "Drätz Brewing Company",
+      "place_id": "ChIJ7XwY6xtTaYcREHxngqFE8EM",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "657 S Taylor Ave Unit E, Louisville, CO 80027, USA",
+      "name": "Crystal Springs Brewing Co.",
+      "place_id": "ChIJfao9YFOLa4cR9-7DKm8DwWI",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "201 Grant Ave, La Junta, CO 81050, USA",
+      "name": "Dean & Co. Brewery and Taproom",
+      "place_id": "ChIJH0_hJ3cHEocR2qEDilBj9n0",
+      "rating": 5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "100 Little Dam St, Dillon, CO 80435, USA",
+      "name": "Dillon Dam Brewery",
+      "place_id": "ChIJ02ykQ4FbaocRbSKAXs8rQJ8",
+      "rating": 4.4,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "3855 Mariposa St, Denver, CO 80211, USA",
+      "name": "Diebolt Brewing Company",
+      "place_id": "ChIJ2dZYX_F4bIcRhKc-iGqkX7w",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "36730 Democracy Dr, Trinidad, CO 81082, USA",
+      "name": "Dodgeton Creek Brewing Company",
+      "place_id": "ChIJ9bMmhdwaEYcRWc-FEiiARO0",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "18921 Plaza Dr, Parker, CO 80134, USA",
+      "name": "Downhill Brewing Company",
+      "place_id": "ChIJ4QpAhB6ObIcRfKJa9x_tYUc",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2801 Tower Rd, Aurora, CO 80011, USA",
+      "name": "Dry Dock Brewing Co - North Dock",
+      "place_id": "ChIJrQkPmvJjbIcRRP6MZ5XL4aA",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "100 S 4th St, Dolores, CO 81323, USA",
+      "name": "Dolores River Brewery",
+      "place_id": "ChIJVzuJ33NrOYcRU5Mlt4aSNTI",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1695 Platte St, Denver, CO 80202, USA",
+      "name": "Denver Beer Co",
+      "place_id": "ChIJs2kmHut4bIcRkQyaPSHmobk",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "660 Peterson Rd, Colorado Springs, CO 80915, USA",
+      "name": "Dueces Wild Brewery",
+      "place_id": "ChIJ51_ViapHE4cRLruipaprDL0",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "116 Main St, Central City, CO 80427, USA",
+      "name": "Dostal Alley Casino & Brew Pub",
+      "place_id": "ChIJ3wu1JpC7a4cRjlc2vxxPxnE",
+      "rating": 4.1,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "29260 US-40, Evergreen, CO 80439, USA",
+      "name": "El Rancho Brewing Company",
+      "place_id": "ChIJ4UiSG0mZa4cRGlM6zf4R8mk",
+      "rating": 3.4,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1236 S Broadway, Denver, CO 80210, USA",
+      "name": "Dos Luces Brewery",
+      "place_id": "ChIJVVUBQKt_bIcRSf0lW97H6DI",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "115 Pahlone Pkwy, Poncha Springs, CO 81242, USA",
+      "name": "Elevation Beer Company",
+      "place_id": "ChIJ61jNweEVFYcRnpke14VjQ0g",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "5969 Iris Pkwy, Frederick, CO 80530, USA",
+      "name": "Echo Brewing Company",
+      "place_id": "ChIJe3TUXNEIbIcR6LdAA4a_UWI",
+      "rating": 4.3,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "102 Linderman Ave, Buena Vista, CO 81211, USA",
+      "name": "Eddyline Brewery",
+      "place_id": "ChIJTxbcQDg1FYcRq3FydejmJXI",
+      "rating": 4.3,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2755 Dagny Way STE 101, Lafayette, CO 80026, USA",
+      "name": "Endo Brewing Company",
+      "place_id": "ChIJRYKs1Yjza4cRk3cRMpmLGYs",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "15120 E Hampden Ave, Aurora, CO 80014, USA",
+      "name": "Dry Dock Brewing Co - South Dock",
+      "place_id": "ChIJQ0KkmEWIbIcRMxPMGW4gWgw",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "600 Briggs St, Erie, CO 80516, USA",
+      "name": "Echo Brewing - Erie",
+      "place_id": "ChIJL6-2W-L1a4cRT2KZWbvK8cw",
+      "rating": 4.3,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "3027 E Harmony Rd Suite #2, Fort Collins, CO 80528, USA",
+      "name": "Envy Brewing",
+      "place_id": "ChIJdcbQhy6zbocRNsGMQnPvlbY",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "3845 Lipan St, Denver, CO 80211, USA",
+      "name": "Factotum Brewhouse & Lady Justice Brewing",
+      "place_id": "ChIJl6H_afF4bIcRfKBuZ4l3nuQ",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "4499 W 38th Ave ste 101, Denver, CO 80212, USA",
+      "name": "FlyteCo Brewing",
+      "place_id": "ChIJ-0Xz8SSHa4cRl2aAELXFfZs",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2490 Victor Pl, Colorado Springs, CO 80915, USA",
+      "name": "FH Beerworks East",
+      "place_id": "ChIJq6Ctg1BHE4cRV6lThx8aUXc",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "5455 Spine Rd, Boulder, CO 80301, USA",
+      "name": "Finkel & Garf Brewing. Co.",
+      "place_id": "ChIJS-HTnTPwa4cRZts7nsR_DeA",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "133 Remington St, Fort Collins, CO 80524, USA",
+      "name": "Equinox Brewing",
+      "place_id": "ChIJ8VEm2_RKaYcR7zUXafhcxkg",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "470 Prospect Village Dr, Estes Park, CO 80517, USA",
+      "name": "Estes Park Brewery",
+      "place_id": "ChIJl5DRsJRlaYcRmt2If6pM5uM",
+      "rating": 3.1,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "402 7th St, Glenwood Springs, CO 81601, USA",
+      "name": "Glenwood Canyon Brewpub",
+      "place_id": "ChIJX5y5yZcJQYcRrofREdkeoBo",
+      "rating": 4.4,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "170 S Main St, Brighton, CO 80601, USA",
+      "name": "Flood Stage Ale Works",
+      "place_id": "ChIJY4ZPgkBtbIcRV5c6UYPDycw",
+      "rating": 4.4,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "3500 S College Ave #194, Fort Collins, CO 80525, USA",
+      "name": "Gilded Goat Brewing Company",
+      "place_id": "ChIJyySmEXdLaYcRkmURKQasnf4",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "4970 Lowell Blvd, Denver, CO 80221, USA",
+      "name": "Goldspot Brewing Company",
+      "place_id": "ChIJy9JbjomHa4cRzRcOcSnrcBs",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1900 E Lincoln Ave Unit B, Fort Collins, CO 80524, USA",
+      "name": "Funkwerks",
+      "place_id": "ChIJX5z1u89KaYcR49QLxbQkGN0",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "400 W South Boulder Rd #1650, Lafayette, CO 80026, USA",
+      "name": "Front Range Brewing Company",
+      "place_id": "ChIJEW-Ne-f0a4cR5bhZnyeV538",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "12910 Zuni St Suite 1300, Westminster, CO 80234, USA",
+      "name": "Frolic Brewing Company",
+      "place_id": "ChIJnQNkRJl1bIcRY1pRxD3UKE8",
+      "rating": 4.4,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2962 Evergreen Pkwy #201, Evergreen, CO 80439, USA",
+      "name": "Evergreen Brewery",
+      "place_id": "ChIJgwcSwuSea4cRAFT_1aTaW2M",
+      "rating": 4.4,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1600 38th St, Boulder, CO 80301, USA",
+      "name": "FATE Brewing Company",
+      "place_id": "ChIJkzs51sLta4cReynXvDD7kss",
+      "rating": 4.3,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "7101 E Colfax Ave, Denver, CO 80220, USA",
+      "name": "Fiction Beer Company",
+      "place_id": "ChIJ70rZRnB8bIcRatf_Jil0-VE",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "200 S Pikes Peak Ave, Florence, CO 81226, USA",
+      "name": "Florence Brewing Company",
+      "place_id": "ChIJI_xwoTGBFIcRJXxaAit1t64",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2845 Ore Mill Rd #1, Colorado Springs, CO 80904, USA",
+      "name": "Fossil Craft Beer Company",
+      "place_id": "ChIJ2VeBhpdaE4cRaBQku4QW420",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1018 Mahogany Way, Severance, CO 80550, USA",
+      "name": "G5 Brewpub",
+      "place_id": "ChIJ9XFN54WwbocRUes55UUtJJw",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "105 Edwards Village Blvd, Edwards, CO 81632, USA",
+      "name": "Gore Range Brewery",
+      "place_id": "ChIJ3yFPvw_ZQYcREFIOIzdRy3E",
+      "rating": 4.1,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "725 10th St, Greeley, CO 80631, USA",
+      "name": "Green Earth Brewing Company",
+      "place_id": "ChIJzQvnjSaibocRKrKRtZ8Ylew",
+      "rating": 4.9,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "s 80903, 1007 S Tejon St, Colorado Springs, CO 80903, United States",
+      "name": "gold camp brewing company",
+      "place_id": "ChIJk3jw3d1EE4cR99pY3dZCma0",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "623 N Denver Ave, Loveland, CO 80537, USA",
+      "name": "Grimm Brothers Brewhouse",
+      "place_id": "ChIJDeygITpTaYcReJj_uVydpFk",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "815 7th St, Fort Lupton, CO 80621, USA",
+      "name": "Gorilla Alchemy - TEMP CLOSED",
+      "place_id": "ChIJSSAlGn8RbIcRa1fG78G3vUI",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "62 E Agate Ave, Granby, CO 80446, USA",
+      "name": "Never Summer Brewing",
+      "place_id": "ChIJdVf2HDQvaocRkUUTkcdZBD8",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2727 N Cascade Ave #123, Colorado Springs, CO 80907, USA",
+      "name": "Goat Patch Brewing Company",
+      "place_id": "ChIJoZMXVPNPE4cRAGdriSczITc",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "207 Central Ave, Kremmling, CO 80459, USA",
+      "name": "Grand Adventure Brewing Company",
+      "place_id": "ChIJKaaZUAcDaocROLhTivnqMf8",
+      "rating": 4,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1227 Greene St, Silverton, CO 81433, USA",
+      "name": "Golden Block Brewery",
+      "place_id": "ChIJd20ATfnnPocRI7URXf2mZH0",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "720 Main St, Frisco, CO 80443, USA",
+      "name": "HighSide Brewing",
+      "place_id": "ChIJgWkpUJdeaocRv0x_OaSLVNg",
+      "rating": 4.3,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "501 Rose St, Georgetown, CO 80444, USA",
+      "name": "Guanella Pass Brewing Company",
+      "place_id": "ChIJW2EyUeata4cRvp2ztfzch_Q",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "801 Brickyard Cir, Golden, CO 80403, USA",
+      "name": "Holidaily Brewing Company",
+      "place_id": "ChIJ1TjixqWaa4cRxgvnONu4xq0",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "4460 W 29th Ave, Denver, CO 80212, USA",
+      "name": "Hogshead Brewery",
+      "place_id": "ChIJYVlUnm-Ha4cRWR-pLf1PChs",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "78927 US-40, Winter Park, CO 80446, USA",
+      "name": "Hideaway Park Brewery",
+      "place_id": "ChIJSwhzctM0aocRKDweyPKJRvs",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1150 Pine St, Louisville, CO 80027, USA",
+      "name": "Gravity Brewing",
+      "place_id": "ChIJCcbjKl_za4cR01mcaweoUGo",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2010 S Oak St, Lakewood, CO 80227, USA",
+      "name": "Great Frontier Brewing Company",
+      "place_id": "ChIJofQDhXiBa4cRljPe7jUXfA0",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "9150 Commerce Center Cir Suite 300, Highlands Ranch, CO 80129, USA",
+      "name": "Grist Brewing Company",
+      "place_id": "ChIJueYDwIp9a4cR_eetXPTJIpE",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "920 12th St, Golden, CO 80401, USA",
+      "name": "Golden City Brewery",
+      "place_id": "ChIJTWY5tdOaa4cRrfqurdOVGUQ",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2585 S Lewis Way #110, Lakewood, CO 80227, USA",
+      "name": "Green Mountain Beer Company: local taproom with craft beer",
+      "place_id": "ChIJHfj-FJCBa4cRN0AdDO4DeHU",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "846 E Main St, Montrose, CO 81401, USA",
+      "name": "Horsefly Brewing Company",
+      "place_id": "ChIJP70OZpBQP4cRHfVjJJ_-qV8",
+      "rating": 4.1,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2160 W Drake Rd a1, Fort Collins, CO 80526, USA",
+      "name": "Intersect Brewing",
+      "place_id": "ChIJmTnJrNFLaYcRRwC_wXra63M",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "111 N Main St, Gunnison, CO 81230, USA",
+      "name": "High Alpine Brewing Company",
+      "place_id": "ChIJaebb4MSSP4cRlnbMtgOdLlM",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1812 35th St, Denver, CO 80216, USA",
+      "name": "Great Divide Barrel Bar",
+      "place_id": "ChIJoZUuqAR5bIcRTb1P4dV43aY",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1139 20th St, Denver, CO 80202, USA",
+      "name": "Jagged Mountain Craft Brewery",
+      "place_id": "ChIJvYxIWdl4bIcRUyEqYYTPM1Y",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "5150 E Arapahoe Rd Unit D1-B, Centennial, CO 80122, USA",
+      "name": "Halfpenny Brewing Company",
+      "place_id": "ChIJ81u9qbqGbIcRjxxV-79x4p0",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1025 Delaware Ave, Longmont, CO 80501, USA",
+      "name": "Grossen Bart Brewery",
+      "place_id": "ChIJW9LZCJr5a4cRRIh2hhi3V5w",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "514 Perry St, Castle Rock, CO 80104, USA",
+      "name": "Iron Mule Brewery",
+      "place_id": "ChIJOWmhJHCZbIcR10uJCzF3JTQ",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "12354 W Alameda Pkwy, Lakewood, CO 80228, USA",
+      "name": "Ironworks Brewery & Pub",
+      "place_id": "ChIJjwQU6OWDa4cRNsYwEHayz20",
+      "rating": 3.9,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "6461 CO-392, Windsor, CO 80550, USA",
+      "name": "High Hops Brewery",
+      "place_id": "ChIJgXdO-PaxbocRqtrLgw6w5MQ",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "8931 N Harlan St, Westminster, CO 80031, USA",
+      "name": "Kokopelli Beer Company",
+      "place_id": "ChIJ2VXQkbCJa4cRbUbsbKALsIM",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "11860 Stapleton Dr, Falcon, CO 80831, USA",
+      "name": "JAKs Brewing Company",
+      "place_id": "ChIJJaxisPs2E4cR9KTV2xajtAw",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "70 E 1st St, Nederland, CO 80466, USA",
+      "name": "James Peak Brewery & Smokehouse",
+      "place_id": "ChIJPUIprc_Ga4cRCUy-SZrKrAE",
+      "rating": 4.3,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1209 E Main St, Cortez, CO 81321, USA",
+      "name": "J Fargo's Family Dining & Micro Brewery",
+      "place_id": "ChIJ54_S-Z1vOYcRp-FamtqxTe4",
+      "rating": 4,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "3506, 7088 Winchester Cir, Boulder, CO 80301, United States",
+      "name": "Gunbarrel Brewing Company",
+      "place_id": "ChIJv_xfmE7wa4cRNBKmTxiTz90",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1921 Jessup Dr, Fort Collins, CO 80525, USA",
+      "name": "Jessup Farm Barrel House",
+      "place_id": "ChIJN8CqBjJLaYcRKlRtWju_kDg",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "905 Struthers Ave, Grand Junction, CO 81501, USA",
+      "name": "Edgewater Brewery",
+      "place_id": "ChIJI4bjvHAcR4cRNOwP0kGsGeU",
+      "rating": 4.3,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "7314 Washington St, Denver, CO 80229, USA",
+      "name": "J.Moe's Brewing Company",
+      "place_id": "ChIJzVF2bnp3bIcR_YbGnM0PlC0",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2409 W Main St, Littleton, CO 80120, USA",
+      "name": "Jackass Hill Brewery",
+      "place_id": "ChIJOe6RlpyBbIcR1A0OG7cPLoI",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "124 Racquette Dr, Fort Collins, CO 80524, USA",
+      "name": "Horse & Dragon Brewing Company, Craft Brewery",
+      "place_id": "ChIJnTTquMdKaYcRMXvpjUgGsQ4",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "320 S Weber St, Colorado Springs, CO 80903, USA",
+      "name": "Local Relic",
+      "place_id": "ChIJJ4lgPH1GE4cR8p8_B3m6ftk",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2403 Champa St, Denver, CO 80205, USA",
+      "name": "Liberati Osteria & Oenobeers",
+      "place_id": "ChIJAXlnzft5bIcRkwKznepINcI",
+      "rating": 4.4,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2501 Sheridan Boulevard, Edgewater, CO 80214, USA",
+      "name": "Joyride Brewing Company",
+      "place_id": "ChIJxZSKEmuHa4cRnHpq2FyH10c",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2924 W 20th Ave, Denver, CO 80211, USA",
+      "name": "Little Machine Beer",
+      "place_id": "ChIJu2qBaKR4bIcRnRHLY9On3XY",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "884 S Buckley Rd, Aurora, CO 80017, USA",
+      "name": "Launch Pad Brewery",
+      "place_id": "ChIJZbrL_GZibIcRniuL5HufCAk",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1960 N 12th St, Grand Junction, CO 81501, USA",
+      "name": "Kannah Creek Brewing Company",
+      "place_id": "ChIJ81qEAEwcR4cRe2NQBSo1Vww",
+      "rating": 4.3,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2500 47th St Unit #12, Boulder, CO 80301, USA",
+      "name": "Kettle and Spoke Brewery",
+      "place_id": "ChIJ042p-N_ta4cRuv1-Q6nscBc",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "5950 S Platte Canyon Rd, Littleton, CO 80123, USA",
+      "name": "Locavore Beer Works",
+      "place_id": "ChIJdY-Jcit-a4cRtJEI-3QZUqE",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "130A, Bluff St, Lake City, CO 81235, USA",
+      "name": "Lake City Brewing Company",
+      "place_id": "ChIJX_h6n2QBP4cRUkvtElJgdzM",
+      "rating": 4.4,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "402 S Nevada Ave, Colorado Springs, CO 80903, USA",
+      "name": "Iron Bird Brewing Co.",
+      "place_id": "ChIJyUXB0yFFE4cRLjfaQW6Q3Zk",
+      "rating": 4.4,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "12305 N Dumont Way, Littleton, CO 80125, USA",
+      "name": "Living The Dream Brewing",
+      "place_id": "ChIJA-WDaY99a4cRSv_Flikrr6M",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "3225 S Wadsworth Blvd, Lakewood, CO 80227, USA",
+      "name": "LandLocked Ales",
+      "place_id": "ChIJgXRpN8yBa4cRu_MrrHWIRMc",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "27618 Fireweed Dr, Evergreen, CO 80439, USA",
+      "name": "Lariat Lodge Brewing Co.",
+      "place_id": "ChIJ44iU_XWea4cRO-MUNwFxZng",
+      "rating": 4.3,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "118 W 4th St, Loveland, CO 80537, USA",
+      "name": "Loveland Aleworks",
+      "place_id": "ChIJ2zMkSwhTaYcRbOb9G0Dlvvk",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2895 Fairfax St, Denver, CO 80207, USA",
+      "name": "Long Table Brewhouse",
+      "place_id": "ChIJVVWRdOV7bIcR05RrimL2PMs",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1265 Boston Ave, Longmont, CO 80501, USA",
+      "name": "Left Hand Brewing Company",
+      "place_id": "ChIJ2cylXYP5a4cR97u-1MG0f3U",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "435 Lincoln Ave, Steamboat Springs, CO 80487, USA",
+      "name": "Mahogany Ridge Brewery & Grill",
+      "place_id": "ChIJUQw7PdpoQocR9OISf49p6_c",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "800 Lincoln St, Denver, CO 80203, USA",
+      "name": "Lowdown Brewery",
+      "place_id": "ChIJu2pXICh_bIcRGgb3XEfREdo",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "297 US-287 #100, Lafayette, CO 80026, USA",
+      "name": "Liquid Mechanics Brewing Company",
+      "place_id": "ChIJaVkaXIv0a4cRY0wrDeNceBg",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "531 S St Vrain Ave, Estes Park, CO 80517, USA",
+      "name": "Lumpy Ridge Brewing Co.",
+      "place_id": "ChIJ611rP95laYcRD-POQbTdL_A",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2724 McClelland Dr #190, Fort Collins, CO 80525, USA",
+      "name": "Maxline Brewing",
+      "place_id": "ChIJm6u6gaBLaYcRGZYp8vPPoa0",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "3501 Delgany St, Denver, CO 80216, USA",
+      "name": "Mockery Brewing",
+      "place_id": "ChIJAw9dnQR5bIcRkz0GGlQigqM",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1035 S Taft Hill Rd, Fort Collins, CO 80526, USA",
+      "name": "McClellan's Brewing Company",
+      "place_id": "ChIJi3d2QyVKaYcRxVUHH09L_cg",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2458 Montebello Square Dr, Colorado Springs, CO 80918, USA",
+      "name": "Lost Friend Brewing Company",
+      "place_id": "ChIJ9zWCJBxPE4cRv4O2JzfzfuM",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "8200 Park Meadows Dr #8222, Lone Tree, CO 80124, USA",
+      "name": "Lone Tree Brewing Company",
+      "place_id": "ChIJGRZ5t0yEbIcRuQE2GQZsAVE",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "484 Hwy 160 E Frontage Rd, Mancos, CO 81328, USA",
+      "name": "Mancos Brewing Company",
+      "place_id": "ChIJo0JAyRpbOYcR-k6_xkFb95E",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "19340 Cottonwood Dr, Parker, CO 80138, USA",
+      "name": "Los Dos Potrillos Mexican Restaurant y Cervecería",
+      "place_id": "ChIJ6-w_7p-PbIcRS9NZKuSZhJE",
+      "rating": 4.2,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1213 N Circle Dr, Colorado Springs, CO 80909, USA",
+      "name": "Metric Brewing",
+      "place_id": "ChIJBZ5JZMBFE4cRPTh6s3CgeJo",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "23 Main St, Bailey, CO 80421, USA",
+      "name": "Mad Jack's Mountain Brewery",
+      "place_id": "ChIJjfPmnUASa4cRxXjKmbQawjA",
+      "rating": 4.9,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2360 E 120th Ave, Thornton, CO 80233, USA",
+      "name": "Mother Tucker Brewery",
+      "place_id": "ChIJ49TprBB0bIcRGFqoO3U7Zsg",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "725 Manitou Ave, Manitou Springs, CO 80829, USA",
+      "name": "Manitou Brewing Company",
+      "place_id": "ChIJu3ZF1qFQE4cRFT1bzqypj4M",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "900 Washington Ave, Golden, CO 80401, USA",
+      "name": "Mountain Toad Brewing",
+      "place_id": "ChIJW-G7682aa4cRnHYMd5A647o",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "242 F St, Salida, CO 81201, USA",
+      "name": "Moonlight Pizza & Brewpub",
+      "place_id": "ChIJb2WPVd0XFYcR1Zqk98HcwYs",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "910 Yampa St #103, Steamboat Springs, CO 80487, USA",
+      "name": "Mountain Tap Brewery",
+      "place_id": "ChIJ3XLwz9xoQocRQyzePYR4Wow",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "4395 Highland Meadows Pkwy, Windsor, CO 80550, USA",
+      "name": "Mash Lab Brewing",
+      "place_id": "ChIJ8wvsArytbocReVfnhJG9mwU",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "16401 Table Mountain Pkwy, Golden, CO 80403, USA",
+      "name": "New Terrain Brewing Company",
+      "place_id": "ChIJIw05Sm6Fa4cRSpLLIiPx7oY",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "318 Fifth St, Frederick, CO 80530, USA",
+      "name": "Mountain Cowboy Brewing Co.",
+      "place_id": "ChIJKwdk2tIObIcRf7lthjvU2cI",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2402 Waynoka Rd, Colorado Springs, CO 80915, USA",
+      "name": "Nano 108 Brewery",
+      "place_id": "ChIJHWkofTpGE4cRAMZCYe0EShY",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "6383 N Fairgrounds Ave, Windsor, CO 80550, USA",
+      "name": "Mighty River Brewing Company",
+      "place_id": "ChIJUTdMk-2tbocRpE57FnwIqMM",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "5535 W 56th Ave #107, Arvada, CO 80002, USA",
+      "name": "Odyssey Beerwerks Brewery & Taproom",
+      "place_id": "ChIJm40EpcKHa4cR6VCHoHMScHU",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "8121 First St, Wellington, CO 80549, USA",
+      "name": "Old Colorado Brewing Company",
+      "place_id": "ChIJ7wQ0iZjMbocRJkgvXSQ40Bg",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1057 S Wadsworth Blvd Suite 60, Lakewood, CO 80226, USA",
+      "name": "Old 121 Brewhouse",
+      "place_id": "ChIJWXcR24-Ba4cRa9SPN_cofSY",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "301 E Simpson St, Lafayette, CO 80026, USA",
+      "name": "Odd13 Brewing",
+      "place_id": "ChIJ_R0qA_v0a4cRJi1lkwuinH8",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "3350 Brighton Blvd, Denver, CO 80216, USA",
+      "name": "New Belgium at The Source Hotel",
+      "place_id": "ChIJJ1d81dt5bIcRalBWQKFKBQk",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "703 Main St, Ouray, CO 81427, USA",
+      "name": "Ourayle House Brewery",
+      "place_id": "ChIJ22ADqtkhP4cR_k-59zMPMO0",
+      "rating": 4.2,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "5622 Yukon St, Arvada, CO 80002, USA",
+      "name": "New Image Restaurant and Brewery",
+      "place_id": "ChIJXQC4XiyGa4cRjNSdeVr9bbs",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "800 E Lincoln Ave, Fort Collins, CO 80524, USA",
+      "name": "Odell Brewing Company",
+      "place_id": "ChIJGRU_s-xKaYcRJNVJw2tch2Q",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1535 Pearl St, Boulder, CO 80302, USA",
+      "name": "Mountain Sun Pub & Brewery",
+      "place_id": "ChIJIVg0_ijsa4cRGkwGu-Jw-fo",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2810 Larimer St, Denver, CO 80205, USA",
+      "name": "Our Mutual Friend Brewing",
+      "place_id": "ChIJwXUKCR95bIcRt-x24xExeKM",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "607 Main St, Ouray, CO 81427, USA",
+      "name": "Ouray Brewery",
+      "place_id": "ChIJpVWbTtghP4cR4kDt_vIMl70",
+      "rating": 4.2,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "181 S Purcell Blvd, Pueblo West, CO 81007, USA",
+      "name": "PDub Brewing Company",
+      "place_id": "ChIJfUI_OCefE4cR6k6e6yoWt5Q",
+      "rating": 4.4,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1800 Pike Rd, Longmont, CO 80501, USA",
+      "name": "Oskar Blues Brewery - Longmont - Tasty Weasel Taproom",
+      "place_id": "ChIJDymWUvT5a4cRtUtTs__8Pog",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1624 Market St, Denver, CO 80202, USA",
+      "name": "Oskar Blues Grill & Brew",
+      "place_id": "ChIJE2oTzMR4bIcRTXq2vURvkmI",
+      "rating": 4.3,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "402 Main St b, Sterling, CO 80751, USA",
+      "name": "Parts and Labor Brewing Company",
+      "place_id": "ChIJE8oB5w3zcYcRrWLGX597SSA",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "10 Buffalo Ct, Divide, CO 80814, USA",
+      "name": "Paradox Beer Company",
+      "place_id": "ChIJp0s7tVisFIcRvNLsAwa_3CA",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "182 Lusher Ct, Frisco, CO 80443, USA",
+      "name": "Outer Range Brewing Company",
+      "place_id": "ChIJnz4pKSZcaocRiZo6lOeIPpY",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "200 Peach Ave, Palisade, CO 81526, USA",
+      "name": "Palisade Brewing Company",
+      "place_id": "ChIJv30u2TwhR4cR5ZoS_pnIMVs",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "305 W 1st Ave, Denver, CO 80223, USA",
+      "name": "Novel Strand Brewing Company",
+      "place_id": "ChIJlx7gGo5_bIcReG4TsAYCAqU",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "104 Village Pl, Dillon, CO 80435, USA",
+      "name": "Pug Ryan's Brewery",
+      "place_id": "ChIJG7vv4ptbaocRNFTCyEBpFDs",
+      "rating": 4,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "4233 S Buckley Rd, Aurora, CO 80013, USA",
+      "name": "Pilothouse Brewing Company",
+      "place_id": "ChIJ3U1v0wCJbIcR8y_n2G6Qmlw",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "118 N Pagosa Blvd, Pagosa Springs, CO 81147, USA",
+      "name": "Pagosa Brewing & Grill",
+      "place_id": "ChIJyQc6C5XaPYcR3lk_5K1OYm8",
+      "rating": 4.1,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2100 E 112th Ave Suite 1, Northglenn, CO 80233, USA",
+      "name": "Periodic Brewing",
+      "place_id": "ChIJxSPQa592bIcRDhgxkf_OcFs",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "16701 E Iliff Ave, Aurora, CO 80013, USA",
+      "name": "Peak To Peak Tap & Brew",
+      "place_id": "ChIJ9-RWPNKJbIcRQp3X4UDF-Yw",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "9672 E Arapahoe Rd, Greenwood Village, CO 80112, USA",
+      "name": "Peak View Brewing Company",
+      "place_id": "ChIJh-qcCzOHbIcRjNX9Lfr9n-Y",
+      "rating": 4.9,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1756 Lake Woodmoor Dr, Monument, CO 80132, USA",
+      "name": "Pikes Peak Brewing Company",
+      "place_id": "ChIJKXezpO-tbIcRS-iX5foCXYk",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "325 Grand Ave, Paonia, CO 81428, USA",
+      "name": "Paonia United Brewing Company",
+      "place_id": "ChIJ13luMHOXQIcRPrBgpi5JrkI",
+      "rating": 4.9,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2 E Pikes Peak Ave, Colorado Springs, CO 80903, USA",
+      "name": "Phantom Canyon Brewing Company",
+      "place_id": "ChIJFc5c2SJFE4cRsiqJ3K3urM0",
+      "rating": 4.3,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "4005 Tutt Blvd, Colorado Springs, CO 80922, USA",
+      "name": "Peaks N Pines Brewery",
+      "place_id": "ChIJGwyZg4VIE4cRjUapGPNLAy8",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "4025 S Mason St Unit C, Fort Collins, CO 80525, USA",
+      "name": "Purpose Brewing and Cellars",
+      "place_id": "ChIJbR6Z7oFLaYcRh_wN5kVl3ss",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1101 Center Ave Mall, Fort Collins, CO 80523, USA",
+      "name": "Ramskeller Pub & Grub",
+      "place_id": "ChIJC92xNldKaYcR6i2uRAw5-Cw",
+      "rating": 4.2,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "321 Old Firehouse Alley, Fort Collins, CO 80524, USA",
+      "name": "Prost Brewing Co. & Biergarten - Fort Collins",
+      "place_id": "ChIJqz-5RYtKaYcR6tLOr2rhCcg",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2540 19th St, Denver, CO 80211, USA",
+      "name": "Prost Brewing Co. & Biergarten - Denver",
+      "place_id": "ChIJmzNshex4bIcR7jMK6Qn3gwA",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "221 W 13th Ave, Denver, CO 80204, USA",
+      "name": "Pints Pub- British Gastro Brewpub & Restaurant",
+      "place_id": "ChIJF4PORCt_bIcRzu99r3p8-Ww",
+      "rating": 4.4,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "540 Main St, Longmont, CO 80501, USA",
+      "name": "Pumphouse Brewery",
+      "place_id": "ChIJdTCsMgv5a4cRJsUrOdu3f1Q",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "9735 E Colfax Ave, Aurora, CO 80010, USA",
+      "name": "Peak to Peak Brewery",
+      "place_id": "ChIJq6rLKpd8bIcR6Otdk1NhtIk",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1875 S Pearl St, Denver, CO 80210, USA",
+      "name": "Platt Park Brewing Company",
+      "place_id": "ChIJrwlI6Ut-bIcRo6EJZw0kTl4",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1670 S Chambers Rd, Aurora, CO 80017, USA",
+      "name": "Pitchers Sports Restaurant",
+      "place_id": "ChIJZ-N2t4RibIcRDWLBEeqxm1c",
+      "rating": 4,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "11625 Reed Ct unit b, Broomfield, CO 80020, USA",
+      "name": "Rails End Beer Company",
+      "place_id": "ChIJ5dzrbUqKa4cRYvMAzgoopGo",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2920 Larimer St, Denver, CO 80205, USA",
+      "name": "Ratio Beerworks",
+      "place_id": "ChIJgZ4HIR95bIcRVav2shAUzp8",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "274 Pagosa St, Pagosa Springs, CO 81147, USA",
+      "name": "Riff Raff Brewing Company",
+      "place_id": "ChIJe6jK-mHbPYcRy1B96jF5KLI",
+      "rating": 4.4,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "7286 S Yosemite St #110, Centennial, CO 80112, USA",
+      "name": "Resolute Brewing Company",
+      "place_id": "ChIJB29nStGFbIcR7O2JO9I8Wr8",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "400 Main St, Ouray, CO 81427, USA",
+      "name": "Red Mountain Brewing",
+      "place_id": "ChIJkwYPg9chP4cRAmmjo5nnWsQ",
+      "rating": 4.2,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1624 S Lemay Ave #4, Fort Collins, CO 80525, USA",
+      "name": "Rally King Brewing",
+      "place_id": "ChIJzSkBQh9LaYcRKO1EPMeymHQ",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2025 Ionosphere St, Longmont, CO 80504, USA",
+      "name": "Primitive Beer",
+      "place_id": "ChIJl_uKCuj5a4cRFJ2qqlZP6cQ",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "925 W 9th Ave, Denver, CO 80204, USA",
+      "name": "Renegade Brewing Company",
+      "place_id": "ChIJqwGVljF_bIcRAeSeNZuyFOs",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "358 Main St, Carbondale, CO 81623, USA",
+      "name": "Roaring Fork Beer Comany",
+      "place_id": "ChIJ0zeVAJOrQYcRzgXOJcUdljw",
+      "rating": 4.4,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "4630 Forge Rd, Colorado Springs, CO 80907, USA",
+      "name": "Red Leg Brewing Company",
+      "place_id": "ChIJZz5h7dZPE4cRonqxmUm3PzI",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1700 Dogwood St, Louisville, CO 80027, USA",
+      "name": "Redgarden Restaurant and Brewery",
+      "place_id": "ChIJBQsyexT1a4cRiU0Afd6X2hM",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "3610 W Colfax Ave, Denver, CO 80204, USA",
+      "name": "Seedstock Brewery",
+      "place_id": "ChIJXZ93X-WLbIcRKyHybYOgJZA",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "12136 Grant Cir, Thornton, CO 80241, USA",
+      "name": "Satire Brewing Company",
+      "place_id": "ChIJuQivD3Z1bIcRniuvEaBQ_KI",
+      "rating": 4.9,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "3550 Frontier Ave Unit A, Boulder, CO 80301, USA",
+      "name": "Sanitas Brewing Co.",
+      "place_id": "ChIJNR0O297ta4cRo3mZc_QoWTc",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "631 Main St, Alamosa, CO 81101, USA",
+      "name": "San Luis Valley Brewing Company",
+      "place_id": "ChIJ5_GnLA18FocRX3YbrtKCLHs",
+      "rating": 3.9,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "414 E 6th St, Loveland, CO 80537, USA",
+      "name": "Rock Coast Brewery",
+      "place_id": "ChIJB_otty5TaYcRuECxm8amjPE",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "3050 67th Ave unit 104, Greeley, CO 80634, USA",
+      "name": "Rocky Mountain Taphouse",
+      "place_id": "ChIJnTHMlZKmbocR3N8s-xYDWxA",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "880 Castleton Rd, Castle Rock, CO 80109, USA",
+      "name": "Rockyard Brewing Company",
+      "place_id": "ChIJ642p77-ZbIcR4bbt9PGfwvI",
+      "rating": 4,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "625 Paonia St, Colorado Springs, CO 80915, USA",
+      "name": "Rocky Mountain Brewery",
+      "place_id": "ChIJWeuPgVdGE4cRk0ilWE7n6OA",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2842 W Bowles Ave, Littleton, CO 80120, USA",
+      "name": "Saint Patrick's Brewing Company",
+      "place_id": "ChIJpdywGD-AbIcRUD9ptFxW_AY",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "6021 Washington St a, Denver, CO 80216, USA",
+      "name": "River North Brewery",
+      "place_id": "ChIJ58XnkM55bIcR-wkWy-puKfE",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "6425 W 52nd Ave #6, Arvada, CO 80002, USA",
+      "name": "SomePlace Else Brewery",
+      "place_id": "ChIJQfEVn8iHa4cRQlW_nY2mN3M",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "108 W 3rd St, Pueblo, CO 81003, USA",
+      "name": "Shamrock Brewing Co",
+      "place_id": "ChIJ_emcnwOjE4cRQY4fdD07RTE",
+      "rating": 4.4,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1757 S 8th St #100, Colorado Springs, CO 80905, USA",
+      "name": "Smiling Toad Brewery",
+      "place_id": "ChIJlxGbZ9JFE4cRHP68d5DjSDo",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "63 S Pratt Pkwy Unit B, Longmont, CO 80501, USA",
+      "name": "Shoes & Brews",
+      "place_id": "ChIJ01DGQpn5a4cRs2VPIaQmkgY",
+      "rating": 4.9,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2511 401 Main St, Grand Junction, CO 81501, USA",
+      "name": "The Rockslide Brewery and Restaurant",
+      "place_id": "ChIJiR4pl2AcR4cR5kCWqQ1t02s",
+      "rating": 4.3,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "225 Girard St, Durango, CO 81303, USA",
+      "name": "Ska Brewing Co",
+      "place_id": "ChIJEwIz09gCPIcRkjbh7HybonY",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "225 N Lemay Ave Suite 1, Fort Collins, CO 80524, USA",
+      "name": "Snowbank Brewing",
+      "place_id": "ChIJZZpMKZVKaYcRGp_WrnId3Gc",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "390 W Riverside Dr, Estes Park, CO 80517, USA",
+      "name": "Rock Cut Brewing Company",
+      "place_id": "ChIJ-8xtROtlaYcRbf2ZE64J5jo",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "248 W Rainbow Blvd, Salida, CO 81201, USA",
+      "name": "Soulcraft Brewing",
+      "place_id": "ChIJV6roZcgXFYcRDYjB8vXOtXE",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "117 N Main St A, Brighton, CO 80601, USA",
+      "name": "Something Brewery",
+      "place_id": "ChIJl5q-hThtbIcR7n3gKjxsv5Q",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "225 S Pine St, Telluride, CO 81435, USA",
+      "name": "Smuggler's Brewpub",
+      "place_id": "ChIJV6FKnWLYPocR-fyJa9dhbPU",
+      "rating": 4.3,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "625 Main St, Alamosa, CO 81101, USA",
+      "name": "SquarePeg Brewerks",
+      "place_id": "ChIJrT8t03J8FocRKw-nXMTe3yc",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2736 Welton St, Denver, CO 80205, USA",
+      "name": "Spangalang Brewery",
+      "place_id": "ChIJLx-igyN5bIcRmLSst1q41To",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "7045 E 38th Ave, Denver, CO 80207, USA",
+      "name": "Station 26 Brewing Co.",
+      "place_id": "ChIJJ9l6Zb17bIcR49ODquiBujs",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "3121 A N El Paso St, Colorado Springs, CO 80907, United States",
+      "name": "Storybook Brewing",
+      "place_id": "ChIJ0SQnL5BPE4cRNgKNuI5FHws",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "3740 Cleveland Ave, Wellington, CO 80549, USA",
+      "name": "Soul Squared Brewing Company",
+      "place_id": "ChIJCUk9sZnMbocRytiqsnwJDVs",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "801 E 2nd Ave, Durango, CO 81301, USA",
+      "name": "Steamworks Brewing Company",
+      "place_id": "ChIJxf8xiKECPIcR7YNI4Fl41es",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1885 Elk River Plaza, Steamboat Springs, CO 80487, USA",
+      "name": "Storm Peak Brewing Company",
+      "place_id": "ChIJw7nNf5JoQocRi2VwuPg6JNo",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "Blake St, Denver, CO 80205, USA",
+      "name": "The Sandlot Brewery",
+      "place_id": "ChIJCXwUxt14bIcRtFjIiDsUqmA",
+      "rating": 3.9,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "3445 S Broadway, Englewood, CO 80113, USA",
+      "name": "The Brew on Broadway",
+      "place_id": "ChIJ2R5cWn6AbIcRXACzJayFAIc",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "7803 Ralston Rd, Arvada, CO 80002, USA",
+      "name": "Spice Trade Brewery",
+      "place_id": "ChIJO0shwyuGa4cRRiQjKwPpHcs",
+      "rating": 4.4,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "4385 W 42nd Ave, Denver, CO 80212, USA",
+      "name": "The Empourium Brewing Company",
+      "place_id": "ChIJbygeBoCHa4cRdI1oxh3N-Sg",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "156 Society Dr, Telluride, CO 81435, USA",
+      "name": "Telluride Brewing Company",
+      "place_id": "ChIJvXj_hhgoP4cR2i7fgRTs2ic",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "531 Silverthorne Ln, Silverthorne, CO 80498, USA",
+      "name": "The Bakers' Brewery",
+      "place_id": "ChIJYWtLNn5caocRJHflPffMM-k",
+      "rating": 4,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1330 Zuni St Unit M, Denver, CO 80204, USA",
+      "name": "Strange Craft Beer Company",
+      "place_id": "ChIJT4fZg7N4bIcRczRuOMzTaL8",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "127 E Aspen Ave, Fruita, CO 81521, USA",
+      "name": "Suds Brothers Brewery",
+      "place_id": "ChIJ-YcvpZX-RocRAjVDs_66FrU",
+      "rating": 4.2,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "Alamosa, CO 81101, USA",
+      "name": "The Colorado Farm Brewery",
+      "place_id": "ChIJgemGDDtwFocR-pxTBKSeZHw",
+      "rating": 5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "239 Main St, Elizabeth, CO 80107, USA",
+      "name": "Elizabeth Brewing Company",
+      "place_id": "ChIJyyTv8B7BbIcRjqQVffg9hpE",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "4138 Main St, Timnath, CO 80547, USA",
+      "name": "Timnath Beerwerks",
+      "place_id": "ChIJu_yqUbqzbocRMlsSKAgNq_U",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1466 Garden of the Gods Rd, Colorado Springs, CO 80907, USA",
+      "name": "Trinity Brewing",
+      "place_id": "ChIJgYt0Ci5QE4cR47D5cu-7fJw",
+      "rating": 4.1,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "4550 S Reservoir Rd, Aurora, CO 80015, USA",
+      "name": "Two22 Brew",
+      "place_id": "ChIJ27N6lGSJbIcR4nRh3uFcJ0g",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "900 Auraria Pkwy, Denver, CO 80204, USA",
+      "name": "Tivoli Brewing Co. Tap House",
+      "place_id": "ChIJxQ8Oh8h4bIcRgjWk2qPleWA",
+      "rating": 4.3,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2027 13th St, Boulder, CO 80302, USA",
+      "name": "The Post Brewing Co. - Boulder",
+      "place_id": "ChIJuyj4zCfsa4cRrvrjo92Gyds",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "475 Grand Ave, Del Norte, CO 81132, USA",
+      "name": "Three Barrel Brewing Co",
+      "place_id": "ChIJg0-x9wTwFYcR-p5otz3APxI",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "110 E 29th St, Loveland, CO 80538, USA",
+      "name": "Tilted Barrel Brew Pub",
+      "place_id": "ChIJgVD9TvZSaYcR9LRqaZP_dT0",
+      "rating": 4.3,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "4369 Stuart St, Denver, CO 80212, USA",
+      "name": "The Grateful Gnome Sandwich Shoppe & Brewery",
+      "place_id": "ChIJZyPtpYSHa4cRhKIl_QldXPo",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "925 W 8th Ave, Denver, CO 80204, USA",
+      "name": "The Intrepid Sojourner Beer Project – Denver Brewery",
+      "place_id": "ChIJeXEJszF_bIcRxujdJo8SRwI",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "285 Cheesman St, Erie, CO 80516, USA",
+      "name": "The Industrial Revolution Brewing Company",
+      "place_id": "ChIJJQlWVrSLa4cRVlEr2DmKzvg",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "6733 W Colfax Ave, Lakewood, CO 80214, USA",
+      "name": "WestFax Brewing Company",
+      "place_id": "ChIJK9fuWiSHa4cR3T6JoQyIxAM",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "147 N 1st St, Montrose, CO 81401, USA",
+      "name": "2 Rascals Brewing",
+      "place_id": "ChIJ02vVaI1QP4cREZjctVlsLuE",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1401 Miner St, Idaho Springs, CO 80452, USA",
+      "name": "Tommyknocker Brewery",
+      "place_id": "ChIJdQ0nTLGka4cR3lvp7Nl3iyE",
+      "rating": 4.4,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1840 Dominion Way, Colorado Springs, CO 80918, USA",
+      "name": "Whistle Pig Brewing Company",
+      "place_id": "ChIJLQuALfFOE4cRbCMBNU4rYLQ",
+      "rating": 3.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "111 N Market St, Cortez, CO 81321, USA",
+      "name": "WildEdge Brewing Collective",
+      "place_id": "ChIJJ2jTTpZvOYcRPoW6t77tKf4",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "227 Broadway #101, Denver, CO 80203, USA",
+      "name": "TRVE Brewing Company",
+      "place_id": "ChIJhyjlWiB_bIcRVqrck99vTHg",
+      "rating": 4.6,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "124 S Main St, Yuma, CO 80759, USA",
+      "name": "Tumbleweed Brewing and Wine Company",
+      "place_id": "ChIJu4Ldjvazc4cR9v7YGzmeYb8",
+      "rating": 3,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "508 8th Ave, Greeley, CO 80631, USA",
+      "name": "WeldWerks Brewing Co.",
+      "place_id": "ChIJC0BzwySibocRXSemF11Ulxw",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "3201 Walnut St Ste A, Boulder, CO 80301, USA",
+      "name": "Twisted Pine Brewing Co",
+      "place_id": "ChIJ0YswZdnta4cRqludvCGJrQ8",
+      "rating": 4.4,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "209 Emery St, Longmont, CO 80501, USA",
+      "name": "Wibby Brewing",
+      "place_id": "ChIJfW8nqaH5a4cR_ZNBUxJkl_w",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "7655 W 108th Ave #600, Westminster, CO 80021, USA",
+      "name": "Westminster Brewing Co.",
+      "place_id": "ChIJI5UDvNOLa4cRLzG2FGc3mks",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "519 Wilcox St, Castle Rock, CO 80104, USA",
+      "name": "Wild Blue Yonder Brewing Co.",
+      "place_id": "ChIJLX__B3KZbIcRS_iNUJTV6x0",
+      "rating": 4.3,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2355 W 29th Ave, Denver, CO 80211, USA",
+      "name": "Zuni Street Brewing Company",
+      "place_id": "ChIJY33KvJZ4bIcR57pyW3PCUrE",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "5460 Conestoga Ct, Boulder, CO 80301, USA",
+      "name": "Wild Woods Brewery",
+      "place_id": "ChIJBz2t0fDta4cRMQsXC8TbM3I",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1125 Pearl St, Boulder, CO 80302, USA",
+      "name": "West Flanders Brewing Co.",
+      "place_id": "ChIJCZAlVCbsa4cRGGGxhIGIlwg",
+      "rating": 4.2,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1617 Miner St, Idaho Springs, CO 80452, USA",
+      "name": "Westbound & Down Brewing Company",
+      "place_id": "ChIJdVMFdLGka4cRiKfBtsZEBHo",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "Hayden, CO 81639 POB 1602, 106 E Jefferson Ave, Hayden, CO 81639, United States",
+      "name": "Yampa Valley Brewing Company",
+      "place_id": "ChIJZ-1P-BxTQocRzio4MeMgPZE",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "5450 W 120th Ave, Broomfield, CO 80020, USA",
+      "name": "Wonderland Brewing Company",
+      "place_id": "ChIJudOw10GKa4cRdP7c0XxRiK8",
+      "rating": 4.3,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "625 3rd St Unit D, Greeley, CO 80631, USA",
+      "name": "Wiley Roots Brewing Company",
+      "place_id": "ChIJBRX8fzuibocRJo-yCEyPwaA",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1634 18th St, Denver, CO 80202, USA",
+      "name": "Wynkoop Brewing Company",
+      "place_id": "ChIJBadAhB95bIcR1h_loSGkaR0",
+      "rating": 4.2,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "1330 Zuni St, Denver, CO 80204, USA",
+      "name": "Wit's End Brewing Company",
+      "place_id": "ChIJ212RWER_bIcRA2pP_utOtzs",
+      "rating": 4.9,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "401 Main St, Cañon City, CO 81212, USA",
+      "name": "World's End Brewing Company",
+      "place_id": "ChIJg1JkVnqPFIcRB8e8YT7mWo8",
+      "rating": 4.5,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "4612 S Mason St #120, Fort Collins, CO 80525, USA",
+      "name": "Zwei Brewing Co.",
+      "place_id": "ChIJGyQVVPVKaYcRVxEe1NbseCU",
+      "rating": 4.7,
+      "html_attributions": [],
+      "website": ""
+    },
+    {
+      "formatted_address": "2210 California St, Denver, CO 80205, USA",
+      "name": "Woods Boss Brewing Company",
+      "place_id": "ChIJ26hhmSd5bIcR7PIWBk1RCvM",
+      "rating": 4.8,
+      "html_attributions": [],
+      "website": ""
+    }
+  ]
+}
