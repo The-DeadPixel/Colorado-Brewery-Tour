@@ -1,1 +1,129 @@
+/* colors to use:
+ * bright orange: #B5580D
+ * bright beige: #f3efe9
+ * gold: #eab36c
+ * dark orange: #bf5f0e
+ * dark/text color: #373133
+ */
 
+body, html {
+    height: 100%;
+}
+
+#wrapper {
+    font-family: 'Roboto', sans-serif;
+    height: 100%;
+    width: 100%;
+    max-width: 1200px;
+    max-height: 980px;
+    /*background-color: #bf5f0e;*/
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+    background-color: #eab36c;
+    /*border: 2px solid #373133;*/
+    border-bottom: 0;
+    font-weight: bold;
+}
+
+header img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+nav {
+    width: 100%;
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+nav a {
+    color: #373133;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+body {
+    background: #eab36c url("../images/wheat_bg.png") repeat-x center;
+    background-position-y: 371px;
+}
+
+#content {
+    border: 2px solid black;
+    padding: 10px;
+    background-color: #d6680f;
+    display: block;
+    max-height: 980px;
+}
+
+#content p {
+    margin-left: 20px;
+    margin-right: auto;
+    font-size: 22px;
+}
+
+#main {
+    display: flex;
+}
+
+#main img {
+    margin: 18px 5px 5px;
+    width: 50%;
+    height: 50%;
+}
+
+#mainBottom {
+    justify-content: center;
+    display: flex;
+}
+
+#mainBottom h2{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer {
+    width: 98%;
+    background-color: #d6680f;
+    border: 2px solid #373133;
+    border-top: 0;
+    padding: 10px 10px 10px;
+    float: right;
+}
+
+footer #disclaimer {
+    align-self: center;
+    display: flex;
+    float: left;
+}
+
+#disclaimer p {
+    font-size: 13px;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+#disclaimer a {
+    font-size: 14px;
+    color: #373133;
+    font-weight: bold;
+}
+
+footer #links {
+    display: flex;
+    float: right;
+}
+
+#links img {
+    height: 32px;
+    width: auto;
+    padding-left: 5px;
+    padding-right: 5px;
+}

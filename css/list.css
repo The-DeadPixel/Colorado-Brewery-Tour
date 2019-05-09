@@ -1,1 +1,167 @@
+/* colors to use:
+ * bright orange: #B5580D
+ * bright beige: #f3efe9
+ * gold: #eab36c
+ * dark orange: #bf5f0e
+ * dark/text color: #373133
+ */
+#wrapper {
+    font-family: 'Roboto', sans-serif;
+    height: 100%;
+    width: 100%;
+    max-width: 1200px;
+    max-height: 980px;
+    /*background-color: #bf5f0e;*/
+    margin-left: auto;
+    margin-right: auto;
+}
 
+header {
+    background-color: #eab36c;
+    /*border: 2px solid #373133;*/
+    border-bottom: 0;
+    font-weight: bold;
+}
+
+header img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
+nav {
+    width: 100%;
+    padding-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+nav a {
+    color: #373133;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+body {
+    background: #eab36c url("../images/wheat_bg.png") repeat-x center;
+    background-position-y: 371px;
+}
+
+#content {
+    border: 2px solid black;
+    padding: 10px;
+    background-color: #d6680f;
+    display: block;
+    max-height: 980px;
+}
+
+#main {
+    display: flex;
+}
+
+#list-search {
+    width: 60%;
+    margin-right: 10px;
+}
+
+#info {
+    width: 40%;
+    display: block;
+}
+
+#info h3 {
+    margin-top:0;
+}
+
+#info img {
+    max-width: 100%;
+    min-width: 100px;
+    height: auto;
+
+}
+
+#myInput {
+    background-image: url("../images/searchIcon.png"); /* Add a search icon to input */
+    background-position: 5px 5px; /* Position the search icon */
+    background-repeat: no-repeat; /* Do not repeat the icon image */
+    background-size: 34px;
+    width: 91%;
+    font-size: 16px; /* Increase font-size */
+    padding: 12px 20px 12px 40px; /* Add some padding */
+    border: 1px solid #ddd; /* Add a grey border */
+    /*margin-bottom: 12px;*/
+}
+
+#myUL {
+    /* Remove default list styling */
+    max-height: 862px;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: scroll;
+}
+
+#myUL li a {
+    border: 1px solid #ddd; /* Add a border to all links */
+    margin-top: -1px; /* Prevent double borders */
+    background-color: #f6f6f6; /* Grey background color */
+    padding: 12px; /* Add some padding */
+    text-decoration: none; /* Remove default text underline */
+    font-size: 18px; /* Increase the font-size */
+    color: black; /* Add a black text color */
+    display: block; /* Make it into a block element to fill the whole list */
+}
+
+#myUL li a:hover:not(.header) {
+    background-color: #eee; /* Add a hover effect to all links, except for headers */
+}
+
+/*#brewery {*/
+/*    border-bottom-style: solid;*/
+/*    border-bottom-color: gold;*/
+/*}*/
+
+#brewery ul {
+    list-style: none;
+}
+
+footer {
+    width: 98%;
+    background-color: #d6680f;
+    border: 2px solid #373133;
+    border-top: 0;
+    padding: 10px 10px 10px;
+    float: right;
+}
+
+footer #disclaimer {
+    align-self: center;
+    display: flex;
+    float: left;
+}
+
+#disclaimer p {
+    font-size: 13px;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+#disclaimer a {
+    font-size: 14px;
+    color: #373133;
+    font-weight: bold;
+}
+
+footer #links {
+    display: flex;
+    float: right;
+}
+
+#links img {
+    height: 32px;
+    width: auto;
+    padding-left: 5px;
+    padding-right: 5px;
+}

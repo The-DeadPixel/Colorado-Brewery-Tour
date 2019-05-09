@@ -1,3 +1,4 @@
+
 /* colors to use:
  * bright orange: #B5580D
  * bright beige: #f3efe9
@@ -15,7 +16,6 @@ body, html {
     height: 100%;
     width: 100%;
     max-width: 1200px;
-    max-height: 1080px;
     /*background-color: #bf5f0e;*/
     margin-left: auto;
     margin-right: auto;
@@ -23,8 +23,6 @@ body, html {
 
 header {
     background-color: #eab36c;
-    /*border: 2px solid #373133;*/
-    border-bottom: 0;
     font-weight: bold;
 }
 
@@ -57,75 +55,25 @@ body {
 
 #content {
     border: 2px solid black;
-    height: 100%;
-    max-height: 630px;
     padding: 10px;
     background-color: #d6680f;
-    display: flex;
-}
-
-
-#map {
-    height: 100%; /*height: 700px;*/
-    width: 70%;
-    max-height: 630px;
-}
-
-#right-panel {
-    font-family: 'Roboto', sans-serif;
-    width: 30%;
-    height: 100%;
-    max-height: 630px;
     display: block;
-    line-height: 30px;
-    padding-left: 10px;
-    font-size: 18px;
-    float: left;
 }
 
-#floating-panel {
-    /* someday change this to float correctly over the map */
-    /* position: absolute; */
-    /* top: 41%; */
-    /* left: 28%; */
-    /* z-index: 5; */
-    font-family: 'Roboto', sans-serif;
-    line-height: 30px;
-    font-size: 18px;
+#content h3 {
+    border: 0 solid black;
+    border-bottom-width: 2px;
+    padding-bottom: 18px;
 }
 
+#content #lastAnswer {
+    border: 0;
+    padding-bottom: 0;
+}
 
-#right-panel select, #right-panel input {
-    font-family: 'Roboto', sans-serif;
-    color: #373133;
-    background-color: #f3efe9;
+#content a {
+    color: black;
     font-weight: bold;
-    font-size: 18px;
-}
-
-#right-panel select {
-    font-family: 'Roboto', sans-serif;
-    background-color: #f3efe9;
-    width: 100%;
-}
-
-#right-panel i {
-    font-size: 12px;
-}
-
-#right-panel option {
-    font-weight: bold;
-    font-size: 18px;
-}
-
-#directions-panel {
-    display: block;
-    margin-top: 5px;
-    font-family: 'Roboto', sans-serif;
-    color: #373133;
-    background-color: #f3efe9;
-    overflow: auto;
-    max-height: 256px;
 }
 
 footer {
@@ -149,15 +97,15 @@ footer #disclaimer {
     margin-bottom: 0;
 }
 
+footer #links {
+    display: flex;
+    float: right;
+}
+
 #disclaimer a {
     font-size: 14px;
     color: #373133;
     font-weight: bold;
-}
-
-footer #links {
-    display: flex;
-    float: right;
 }
 
 #links img {
@@ -166,3 +114,4 @@ footer #links {
     padding-left: 5px;
     padding-right: 5px;
 }
+
