@@ -1,136 +1,132 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
-  <meta charset="utf-8">
-  <title>Colorado Brewery Tour</title>
-  <link href="css/map.css" rel="stylesheet" type="text/css">
-  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Roboto:400,700" rel="stylesheet">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>Colorado Brewery Tour | Tour Planner</title>
+    <link href="css/map.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Roboto:400,700" rel="stylesheet">
 </head>
 <body>
 <div id="wrapper">
-  <header>
-    <img src="images/Colorado%20Brewery%20TourBanner.png">
-    <nav>
-      <p>
-        <a href="home.html">HOME</a> | <a href="map.html">MAP</a> | <a href="list.html">LIST</a> | <a href="about.html">ABOUT</a> | <a
-          href="contact.html">CONTACT</a>
-      </p>
-    </nav>
-  </header>
-  <div id="content">
-    <div id="map"></div>
-    <div id="right-panel">
-      <div id="floating-panel">
-        <b>Mode of Travel: </b>
-        <select id="mode">
-          <option value="DRIVING">Driving</option>
-          <option value="WALKING">Walking</option>
-          <option value="BICYCLING">Bicycling</option>
-          <option value="TRANSIT">Transit</option>
-        </select>
-      </div>
-        <b>Start:</b>
-        <select id="start">
-          <!-- add actual options, and addresses, support button to add to itinerary -->
-          <option value="105 West Brewing Company">105 West Brewing Company</option>
-          <option value="Asher Brewing Company">Asher Brewing Company</option>
-        </select>
-        <br>
-        <b>Waypoints:</b> <br>
-        <i>(Ctrl+Click or Cmd+Click for multiple selection)</i> <br>
-        <select multiple id="waypoints">
-          <option value="105 West Brewing Company">105 West Brewing Company</option>
-          <option value="Asher Brewing Company">Asher Brewing Company</option>
-        </select>
-        <br>
-        <b>End:</b>
-        <select id="end">
-          <option value="10 Barrel Brewing Company denver">10 Barrel Brewing Company</option>
-          <option value="Asher Brewing Company">Asher Brewing Company</option>
-        </select>
-        <br>
-        <input type="submit" id="submit">
-      <div id="directions-panel"></div>
-      </div>
-  </div>
-  <footer></footer>
+    <header>
+        <a href="home.html"><img src="images/Colorado%20Brewery%20TourBanner.png" alt="COLORADO BREWERY TOUR"></a>
+        <nav>
+            <p>
+                <a href="home.html">HOME</a> | <a href="map.html">TOUR PLANNER</a> | <a href="list.html">BREWERIES LIST</a> | <a
+                    href="faq.html">FAQ</a> | <a
+                    href="about.html">ABOUT</a>
+            </p>
+        </nav>
+    </header>
+    <div id="content">
+        <div id="map"></div>
+        <div id="right-panel">
+            <div id="floating-panel">
+                <b>Mode of Travel: </b>
+                <select id="mode">
+                    <option value="DRIVING">Driving</option>
+                    <option value="WALKING">Walking</option>
+                    <option value="BICYCLING">Bicycling</option>
+                    <option value="TRANSIT">Transit</option>
+                </select>
+            </div>
+            <b>Start:</b>
+            <select id="start">
+            </select>
+            <br>
+            <b>Waypoints:</b> <br>
+            <i>(Ctrl+Click or Cmd+Click for multiple selection)</i> <br>
+            <select multiple id="waypoints">
+            </select>
+            <br>
+            <b>End:</b>
+            <select id="end">
+            </select>
+            <br>
+            <input type="submit" id="submit">
+            <div id="directions-panel"></div>
+        </div>
+    </div>
+    <footer>
+        <div id="disclaimer"><p><a href="disclaimer.html"><strong>All breweries and their respective properties are
+            owned by their respective owners</strong></a></p></div>
+        <div id="links"><a href="https://www.linkedin.com/in/luke-burford-067073108/"><img
+                src="images/In-Black-26.png"
+                alt="LinkedIn"></a><a
+                href="https://github.com/The-DeadPixel"><img src="images/GitHub-Mark-32px.png" alt="Github"></a>
+        </div>
+    </footer>
 </div>
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
 <script>
-  function initMap() {
-    infoWindow = new google.maps.InfoWindow();
-    var directionsService = new google.maps.DirectionsService;
-    var directionsDisplay = new google.maps.DirectionsRenderer;
-    var map = new google.maps.Map(document.getElementById('map'), {
-      zoom: 7,
-      center: {lat: 39.230682, lng: -105.482248} //derived center// old center: {lat: 39.242092, lng: -105.377079}
-    });
-    var outerLimitCoords = [
-      {lat: 40.997594, lng: -109.050001}, // north west
-      {lat: 36.999047, lng: -109.045222}, // south west
-      {lat: 36.992376, lng: -102.042194}, // south east
-      {lat: 40.998408, lng: -102.051328}  // north east
-    ];
-    var sw = new google.maps.LatLng(36.999047,-109.045222);  // 41.914541,-83.282318
-    var ne = new google.maps.LatLng(40.998408,-102.051328);  // 45.580391,-76.283051
-    var zoneBounds = new google.maps.LatLngBounds(sw,ne);
 
-    directionsDisplay.setMap(map);
-    directionsDisplay.setPanel(document.getElementById('directions-panel'));
-    map.data.add({geometry: new google.maps.Data.Polygon([outerLimitCoords])});
-    document.getElementById('submit').addEventListener('click', function () {
-      calculateAndDisplayRoute(directionsService, directionsDisplay);
-    });
-    map.data.setStyle({
-      fillOpacity: 0.0,
-      strokeWeight: 3,
-      strokeColor: 'green'
-    });
-
-    var request = {
-      bounds: zoneBounds,
-      keyword: 'brewery',
-      // name: 'brewery',
-      // type: ['bar'],
-      openNow: true
-    };
-
-    service = new google.maps.places.PlacesService(map);
-    service.nearbySearch(request, callback);
-  }
-
-  function calculateAndDisplayRoute(directionsService, directionsDisplay) {
-    var selectedMode = document.getElementById('mode').value;
-    var waypts = [];
-    var checkboxArray = document.getElementById('waypoints');
-    for (var i = 0; i < checkboxArray.length; i++) {
-      if (checkboxArray.options[i].selected) {
-        waypts.push({
-          location: checkboxArray[i].value,
-          stopover: true
+    $.getJSON("data/breweriesList.json", function (json) {
+        var breweries = json.breweries;
+        breweries.forEach(function (index) {
+            document.getElementById("start").innerHTML += "<option value='" + index.formatted_address + "'>" + index.name + "</option>";
+            document.getElementById("waypoints").innerHTML += "<option value='" + index.formatted_address + "'>" + index.name + "</option>";
+            document.getElementById("end").innerHTML += "<option value='" + index.formatted_address + "'>" + index.name + "</option>";
         });
-      }
+    });
+
+    function initMap() {
+        infoWindow = new google.maps.InfoWindow();
+        var directionsService = new google.maps.DirectionsService;
+        var directionsDisplay = new google.maps.DirectionsRenderer;
+        var map = new google.maps.Map(document.getElementById('map'), {
+            zoom: 7,
+            center: {lat: 39.230682, lng: -105.482248} //derived center// old center: {lat: 39.242092, lng: -105.377079}
+        });
+        var outerLimitCoords = [
+            {lat: 40.997594, lng: -109.050001}, // north west
+            {lat: 36.999047, lng: -109.045222}, // south west
+            {lat: 36.992376, lng: -102.042194}, // south east
+            {lat: 40.998408, lng: -102.051328}  // north east
+        ];
+        directionsDisplay.setMap(map);
+        directionsDisplay.setPanel(document.getElementById('directions-panel'));
+        map.data.add({geometry: new google.maps.Data.Polygon([outerLimitCoords])});
+        document.getElementById('submit').addEventListener('click', function () {
+            calculateAndDisplayRoute(directionsService, directionsDisplay);
+        });
+        map.data.setStyle({
+            fillOpacity: 0.0,
+            strokeWeight: 3,
+            strokeColor: 'blue'
+        });
     }
 
-    directionsService.route({
-      origin: document.getElementById('start').value,
-      destination: document.getElementById('end').value,
-      waypoints: waypts,
-      optimizeWaypoints: true,
-      travelMode: google.maps.TravelMode[selectedMode]
-    }, function (response, status) {
-      if (status === 'OK') {
-        directionsDisplay.setDirections(response);
-      } else {
-        window.alert('Directions request failed due to ' + status);
-      }
-    });
-  }
+    function calculateAndDisplayRoute(directionsService, directionsDisplay) {
+        var selectedMode = document.getElementById('mode').value;
+        var waypts = [];
+        var checkboxArray = document.getElementById('waypoints');
+        for (var i = 0; i < checkboxArray.length; i++) {
+            if (checkboxArray.options[i].selected) {
+                waypts.push({
+                    location: checkboxArray[i].value,
+                    stopover: true
+                });
+            }
+        }
+
+        directionsService.route({
+            origin: document.getElementById('start').value,
+            destination: document.getElementById('end').value,
+            waypoints: waypts,
+            optimizeWaypoints: true,
+            travelMode: google.maps.TravelMode[selectedMode]
+        }, function (response, status) {
+            if (status === 'OK') {
+                directionsDisplay.setDirections(response);
+            } else {
+                window.alert('Directions request failed due to ' + status);
+            }
+        });
+    }
 </script>
-<!--<script async defer-->
-        <!--src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCsEW5qNref3C64fVO8HRofEBz90gWj2zA&callback=initMap">-->
-<!--</script>-->
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCsEW5qNref3C64fVO8HRofEBz90gWj2zA&libraries=places&callback=initMap" async defer>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCsEW5qNref3C64fVO8HRofEBz90gWj2zA&libraries=places&callback=initMap"
+        async defer>
 </script>
 </body>
 </html>

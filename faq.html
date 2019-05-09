@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>Colorado Brewery Tour | FAQ</title>
+    <link href="css/faq.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Roboto:400,700" rel="stylesheet">
+</head>
+<body>
+<div id="wrapper">
+    <header>
+        <a href="home.html"><img src="images/Colorado%20Brewery%20TourBanner.png" alt="COLORADO BREWERY TOUR"></a>
+        <nav>
+            <p>
+                <a href="home.html">HOME</a> | <a href="map.html">TOUR PLANNER</a> | <a href="list.html">BREWERIES LIST</a> | <a
+                    href="faq.html">FAQ</a> | <a
+                    href="about.html">ABOUT</a>
+            </p>
+        </nav>
+    </header>
+    <div id="content">
+        <h1>FAQ</h1>
+        <h2>Q: How did make the app? That a lot of breweries to find and add!</h2>
+        <h3>&emsp;A: The app is leveraging the search and mapping tools provided by the <a href="https://developers.google.com/maps/documentation/">Google Maps API</a>.</h3>
+        <h2>Q: How do I use the map?</h2>
+        <h3>&emsp;A: First decide the brewery you want to start at, then select any breweries you want to stop along the way in waypoints, then just pick a brewery you want to finish at, click submit and the app will do the rest! directions will be laid out and the route printed on the map!</h3>
+        <h2>Q: How do I select multiple waypoints?</h2>
+        <h3>&emsp;A: Currently the only way to select multiple breweries is to hold control while clicking on the brewery you want to add. In the future I want to improve this system, so stay tuned!</h3>
+        <h2>Q: Your site is saying: "MAX_WAYPOINTS_EXCEEDED" what does this mean?</h2>
+        <h3>&emsp;A: You have selected too many breweries in waypoints. Unfortunately due to the limitations of Google maps API you can only plan a trip start to finish of up to 22 breweries. So make sure that there are less than 20 waypoints selected.</h3>
+        <h2>Q: The map is saying: "ZERO_RESULTS" when I select transit, what does this mean?</h2>
+        <h3>&emsp;A: Some of the breweries that you have selected might not have a easy route using bus or train connections, this is usually the case that your selection spans across cities.</h3>
+        <h2>Q: Is there a better way to find waypoints?</h2>
+        <h3>&emsp;A: When the waypoints selection is being used you can begin typing the name of the desired brewery and it will jump to the closest name that you typed. In the future I will add better filter options!</h3>
+        <h2>Q: The search menu on the brewery list page doesn't seem to work?</h2>
+        <h3 id="lastAnswer">&emsp;A: Currently the search function doesn't return the desired outputs. A fix is currently being implemented!</h3>
+        
+    </div>
+    <footer>
+        <div id="disclaimer"><p><a href="disclaimer.html"><strong>All breweries and their respective properties are
+            owned by their respective owners</strong></a></p></div>
+        <div id="links"><a href="https://www.linkedin.com/in/luke-burford-067073108/"><img
+                src="images/In-Black-26.png"
+                alt="LinkedIn"></a><a
+                href="https://github.com/The-DeadPixel"><img src="images/GitHub-Mark-32px.png" alt="Github"></a>
+        </div>
+    </footer>
+</div>
+</body>
+</html>

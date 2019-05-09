@@ -1,11 +1,95 @@
 <!doctype html>
 <html lang="en">
 <head>
-	<meta charset="utf-8">
-	<title></title>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>Colorado Brewery Tour | Breweries List</title>
+    <link href="css/list.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700|Roboto:400,700" rel="stylesheet">
 </head>
 <body>
-
+<div id="wrapper">
+    <header>
+        <a href="home.html"><img src="images/Colorado%20Brewery%20TourBanner.png" alt="COLORADO BREWERY TOUR"></a>
+        <nav>
+            <p>
+                <a href="home.html">HOME</a> | <a href="map.html">TOUR PLANNER</a> | <a href="list.html">BREWERIES
+                LIST</a> | <a
+                    href="faq.html">FAQ</a> | <a
+                    href="about.html">ABOUT</a>
+            </p>
+        </nav>
+    </header>
+    <div id="content">
+        <h1>Breweries List</h1>
+        <div id="main">
+            <div id="list-search">
+                <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search for names..">
+                <ul id="myUL"></ul>
+            </div>
+            <div id="info"><h3>List of all breweries in Colorado, to visit the breweries website, click on the desired entry.</h3>
+                <img src="images/beer-table.jpg" alt=""></div>
+        </div>
+    </div>
+    <footer>
+        <div id="disclaimer"><p><a href="disclaimer.html"><strong>All breweries and their respective properties are
+            owned by their respective owners</strong> </a></p></div>
+        <div id="links"><a href="https://www.linkedin.com/in/luke-burford-067073108/"><img
+                src="images/In-Black-26.png"
+                alt="LinkedIn"></a><a
+                href="https://github.com/The-DeadPixel"><img src="images/GitHub-Mark-32px.png" alt="Github"></a>
+        </div>
+    </footer>
+</div>
 </body>
+<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+<script>
+    $.getJSON("data/breweriesList.json", function (json) {
+        breweries = json.breweries;
+        breweries.forEach(function (index) {
+            var containerLi = document.createElement("LI");
+            var containerLink = document.createElement("a");
+            containerLink.setAttribute('href', index['website']);
+            containerLink.setAttribute('id', index['name']);
+            var container = document.createElement("DIV");
+            container.setAttribute('id', 'brewery');
+            var ul = document.createElement("UL");
+            var name = document.createTextNode("Name: " + index['name']);
+            var nameLi = ul.appendChild(document.createElement("LI"));
+            nameLi.appendChild(name);
+            var addr = document.createTextNode("Address: " + index['formatted_address']);
+            var addrLi = ul.appendChild(document.createElement("LI"));
+            addrLi.appendChild(addr);
+            var rating = document.createTextNode("Rating: " + index['rating'] + " Stars");
+            var ratingLi = ul.appendChild(document.createElement("LI"));
+            ratingLi.appendChild(rating);
+            container.appendChild(ul);
+            containerLink.appendChild(container);
+            containerLi.appendChild(containerLink);
+            document.getElementById("myUL").appendChild(containerLi);
+        });
+    });
+</script>
+<script>
+    function myFunction() {
+        // Declare variables
+        var input, filter, ul, li, a, i, txtValue;
+        input = document.getElementById('myInput');
+        filter = input.value.toUpperCase();
+        ul = document.getElementById("myUL");
+        li = ul.getElementsByTagName('li');
+
+        // Loop through all list items, and hide those who don't match the search query
+        for (i = 0; i < li.length; i++) {
+            a = li[i].getElementsByTagName("a")[0];
+            txtValue = a.id || a.innerText;
+            console.log(txtValue);
+            if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                li[i].style.display = "";
+            } else {
+                li[i].style.display = "none";
+            }
+        }
+    }
+</script>
 </html>
